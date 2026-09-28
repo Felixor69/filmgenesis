@@ -15,6 +15,7 @@ Materiały do kampanii promującej polski shard Ultima Online **Genesis** ([uoge
 | [05-teksty-postow.md](05-teksty-postow.md) | Gotowe teksty: YouTube, TikTok, Reddit, Wykop, Facebook, Discord, twórcy |
 | [06-otwarte-pytania.md](06-otwarte-pytania.md) | Ustalenia z ekipą i to, co zostało do ustalenia |
 | [07-montaz-i-lektor.md](07-montaz-i-lektor.md) | Montaż w DaVinci i CapCut, tekst dla lektora AI, plan pracy dla jednej osoby |
+| [08-prompty-klatki-chatgpt.md](08-prompty-klatki-chatgpt.md) | Gotowe prompty do ChatGPT na pierwsze klatki ujęć AI i arkusze postaci |
 
 **Założenia:** budżet 0 zł (narzędzia AI: opłacone już Suno, Gemini z Veo, ChatGPT) · montaż robi jedna osoba · lektor AI · tylko po polsku · social media od zera · online kilkanaście osób na co dzień, ok. 50 na eventach.
 

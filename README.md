@@ -13,15 +13,18 @@ Materiały do kampanii promującej polski shard Ultima Online **Genesis** ([uoge
 | [03-prompty-ai-wideo.md](03-prompty-ai-wideo.md) | Biblia stylu i gotowe prompty do generatorów wideo AI |
 | [04-shotlista-gameplay.md](04-shotlista-gameplay.md) | Co i jak nagrać w grze (przebitki) |
 | [05-teksty-postow.md](05-teksty-postow.md) | Gotowe teksty: YouTube, TikTok, Reddit, Wykop, Facebook, Discord, twórcy |
-| [06-otwarte-pytania.md](06-otwarte-pytania.md) | To, czego nie ma na stronie i musi ustalić ekipa |
+| [06-otwarte-pytania.md](06-otwarte-pytania.md) | Ustalenia z ekipą i to, co zostało do ustalenia |
+| [07-montaz-i-lektor.md](07-montaz-i-lektor.md) | Montaż w DaVinci i CapCut, tekst dla lektora AI, plan pracy dla jednej osoby |
+
+**Założenia:** budżet 0 zł · montaż robi jedna osoba · lektor AI · tylko po polsku · social media od zera · online kilkanaście osób na co dzień, ok. 50 na eventach.
 
 ## Najważniejsze w skrócie
 
 1. **Sercem kampanii jest motyw ze strony: „bogowie patrzą, a dusze świecą w ciemności”.** W Genesis to nie tylko hasło, tylko mechanika: noc jest naprawdę ciemna, a jedynym światłem jest **Relikt Wiary**, który świeci tym mocniej, im więcej dusz zbierzesz. Idealny obraz do trailera.
 2. **Najmocniejszy wyróżnik wizualny to 11 ras z własnymi modelami i animacjami** (w tym Pół-Anioł, Pół-Demon, Nieumarły, Mroczny Elf, Jaszczuroczłowiek). Wiki podaje, że to jedyny taki serwer w Polsce.
 3. **Nowy gracz ma bezpieczny start:** wyspa **Przystań Orrena** bez PvP i status **[Młody]** (ochrona do 168 h gry lub 60 dni). To trzeba głośno komunikować, bo nowi boją się UO właśnie przez PK.
-4. **Uczciwie o populacji:** w chwili sprawdzania (28.09.2026) licznik na stronie pokazywał **11 graczy online**. Kampania **nie może obiecywać tłumów** („setki graczy”), bo nowy gracz wejdzie, zobaczy pustki i odejdzie z poczuciem, że go oszukano. Sprzedajemy kameralność: „tu cię zapamiętają”.
-5. **Przed kampanią trzeba naprawić ścieżkę wejścia:** instalator nie ma podpisu cyfrowego (ostrzeżenia Windows SmartScreen, wyjątek w antywirusie, „uruchom jako administrator”), link „WIDEO” w menu jest pusty, a ikony Facebook/Instagram w stopce prowadzą na ogólne facebook.com/instagram.com. Szczegóły w strategii, sekcja 6.
+4. **Uczciwie o populacji:** na co dzień online jest kilkanaście osób, na eventach ok. 50. Kampania **nie obiecuje tłumów** („setki graczy”). Pokazuje prawdziwy event i **kieruje nowych na terminy eventów**, żeby pierwszy raz weszli wtedy, gdy świat żyje. Kameralność sprzedajemy jako atut: „tu cię zapamiętają”.
+5. **Przed kampanią trzeba naprawić ścieżkę wejścia:** instalator bez podpisu cyfrowego straszy ostrzeżeniami Windows, a na certyfikat nie ma budżetu. Rozwiązanie za 0 zł: film instalacji na stronie, zgłoszenie fałszywego alarmu do Microsoftu i skan VirusTotal. Do tego pusty link „WIDEO” i martwe ikony FB/IG. Szczegóły w strategii, sekcja 6.
 
 ## Kwestie prawne (krótko)
 

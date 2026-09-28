@@ -10,7 +10,7 @@ Oś filmu to **światło w ciemności**, czyli dosłowne przełożenie hasła Ge
 
 Film prowadzi widza drogą nowego gracza: **Przystań Orrena → wybór rasy → wybór boga → wyprawa w nieznaną Eldorię → legenda**. Każdy etap pokazujemy dwa razy: najpierw tak, jak gracz go **czuje** (AI, kinowo), potem tak, jak **wygląda w grze** (gameplay). Przejście robimy **match cutem**: ta sama kompozycja, kierunek i akcja.
 
-**Skala:** pokazujemy drużyny i gildię, nie tłumy. Nie obiecujemy populacji, której nowy gracz nie zastanie (patrz strategia, sekcja 3).
+**Skala:** pokazujemy drużyny, gildię i jeden prawdziwy event (ok. 50 osób), podpisany jako event. Nie obiecujemy populacji, której nowy gracz nie zastanie w zwykły dzień (patrz strategia, sekcja 3).
 
 **Muzyka:** mroczna orkiestra fantasy, 90–100 BPM. Cisza i niski dron (0:00) → delikatna melodia, gdy wschodzi słońce nad Przystanią (0:12) → bębny od sekwencji ras (0:22) → groza przy Upiornych Jeźdźcach (0:48) → kulminacja (0:58) → cisza i jeden akord na logo.
 
@@ -63,14 +63,15 @@ Montaż w rytm bębnów. Każde uderzenie to jedna rasa.
 | Czas | Obraz | Tekst / lektor |
 |---|---|---|
 | 1:02–1:07 | **AI-10** Wojownik z Aktu II, teraz w pełnym rynsztunku, stoi na klifie nad Eldorią o świcie. Relikt świeci mu przy pasie, obok mag i reszta drużyny. Odwraca się do kamery. | Lektor: *„Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody.”* |
-| 1:07–1:12 | **→ GP-12** Ta sama drużyna w grze: postacie stoją w rzędzie na tle krajobrazu i się kłaniają. | Lektor: *„Obiecamy ci tylko świat, który pamięta.”* |
+| 1:07–1:10 | **→ GP-12** Ta sama drużyna w grze: postacie stoją w rzędzie na tle krajobrazu i się kłaniają. | Lektor: *„Obiecamy ci tylko świat, który pamięta.”* |
+| 1:10–1:12 | **GP-17** Szeroki kadr z prawdziwego eventu: ok. 50 postaci zebranych wokół Quest Masterki | Tekst (mały): `Event w Eldorii, grafika z gry` |
 
 ## Zakończenie (1:12–1:20)
 
 | Czas | Obraz | Tekst |
 |---|---|---|
 | 1:12–1:16 | **AI-11** Czerń. Dusze zlatują się i układają w napis **GENESIS** (logo dokładane w montażu) | Lektor: *„...i który zapamięta ciebie.”* |
-| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena* |
+| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena · Eventy: [DNI I GODZINA]* |
 
 ---
 
@@ -85,7 +86,7 @@ Montaż w rytm bębnów. Każde uderzenie to jedna rasa.
 > Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody.
 > Obiecamy ci tylko świat, który pamięta... i który zapamięta ciebie.
 
-Czas czytania: ok. 35–40 s, reszta to muzyka i obraz. Głos niski, spokojny, jak narrator legendy.
+Czas czytania: ok. 35–40 s, reszta to muzyka i obraz. Lektor AI: wersja tekstu przygotowana pod syntezę mowy (pauzy, akcenty, ustawienia głosu) jest w [07-montaz-i-lektor.md](07-montaz-i-lektor.md).
 
 ---
 

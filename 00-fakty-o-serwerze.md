@@ -7,7 +7,7 @@
 - **Świat:** **Eldoria**, mapa stworzona od zera i ręcznie, niekopiująca map UO. Wiki: *„To mapa, jakiej Ultima jeszcze nie widziała, nie dla wygody, lecz dla odkrywców.”*
 - **Miejsca:** Dalamar (miasto, Dom Aukcyjny Dalamaru), Kal'Thamar, ruiny Zel'Rin, Święty Bastion, Ołtarz Ciszy; wyspa startowa **Przystań Orrena**.
 - **Start serwera:** 01.03.2026 (przesunięty z 15.02.2026).
-- **Status 28.09.2026:** serwer UP, **11 graczy online** w chwili sprawdzania.
+- **Populacja:** 28.09.2026 licznik na stronie pokazywał 11 graczy online. Według ekipy podczas eventów online jest **ok. 50 osób**.
 - **Klient:** własny Launcher (ok. 1,5 GB), ClassicUO + Razor Enhanced, automatyczne aktualizacje. Kreator postaci jest zrobiony na poziomie klienta, „nowoczesny, krok po kroku”.
 - **Społeczność:** forum (forum.uogenesis.pl), wiki, Discord: https://discord.gg/dhrwsxWyHf, wiki makr i skryptów (od 22.09.2026).
 - **Ekipa:** vvv (główny administrator, autor wizji), Fris i Xaw (programiści, Xaw odpowiada za AI potworów), Gboss (budowle, animacje, grafika, mapa), Triacz3k (Quest Masterka: eventy, wątki fabularne graczy).
@@ -60,5 +60,5 @@
 - Instalator i launcher bez podpisu cyfrowego: SmartScreen „Uruchom mimo to”, blokada pobierania w przeglądarce, wyjątek w antywirusie. Dla nowego gracza to wygląda jak wirus i jest najczęstszym powodem rezygnacji.
 - Link „WIDEO” w menu jest pusty (`http://@`).
 - Ikony Facebook/Instagram prowadzą na ogólne facebook.com/instagram.com. Wygląda na to, że profili nie ma.
-- Strona główna mówi „Dołącz do setek graczy”, a licznik pokazuje 11 online. Warto zmienić to hasło.
+- Strona główna mówi „Dołącz do setek graczy”, a online jest kilkanaście osób na co dzień i ok. 50 na eventach. Warto zmienić to hasło.
 - Wiki „Nowy Gracz”: sekcja „Stworzona Postać... co dalej?” jest oznaczona jako [do uzupełnienia].

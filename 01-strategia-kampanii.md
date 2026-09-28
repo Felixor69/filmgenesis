@@ -4,7 +4,9 @@ Fakty, na których się opieram, są w [00-fakty-o-serwerze.md](00-fakty-o-serwe
 
 ## 1. Kogo chcemy przyciągnąć
 
-Priorytet to **nowi gracze**. Serwer, wiki i społeczność są po polsku, więc **kampania jest polskojęzyczna**. Wersja EN to ewentualny dodatek (patrz [06-otwarte-pytania.md](06-otwarte-pytania.md)).
+Priorytet to **nowi gracze**. **Kampania jest wyłącznie po polsku.**
+
+**Założenia ustalone z ekipą:** budżet 0 zł · montaż robi jedna osoba z ekipy · lektor AI · social media zakładamy od zera · online: kilkanaście osób na co dzień, **ok. 50, gdy coś się dzieje** (eventy).
 
 | Segment | Kto to | Co go blokuje | Co go przekona |
 |---|---|---|---|
@@ -48,25 +50,40 @@ Nowy gracz zobaczy izometryczną grafikę. Jeśli trailer pokaże tylko AI, pocz
 - Genesis ma tu atut: **własne modele ras, nowe animacje potworów i ręcznie robioną mapę**. To pokazujemy w zbliżeniach.
 
 ### Populacja
-Licznik na stronie pokazywał 11 osób online. Jeśli trailer obieca „setki graczy” i masowe bitwy, nowy gracz wejdzie, zobaczy pusty świat i odejdzie.
-- **Nie pokazujemy tłumów, których nie ma.** Pokazujemy drużyny 3–8 osób, gildię, event z Quest Masterką, aukcję w Dalamarze.
+Na co dzień online jest kilkanaście osób, podczas eventów ok. 50. Jeśli trailer obieca „setki graczy” i masowe bitwy, nowy gracz wejdzie w zwykły wtorek, zobaczy pusty świat i odejdzie.
+- **Pokazujemy tylko to, co realnie się dzieje:** drużyny, gildię i **event z ok. 50 osobami**. Taki tłum jest prawdziwy, więc można go pokazać, ale z podpisem, że to event.
 - Kameralność to atut: **„Tu nie jesteś numerem. Tu cię zapamiętają.”** Pasuje do głównego hasła.
 - **Zmienić hasło na stronie głównej** („Dołącz do setek graczy”) na coś zgodnego z rzeczywistością.
+- **Kierujemy nowych na eventy.** Każdy materiał kończy się informacją, kiedy jest najbliższy event („Wieczór w Eldorii: w piątek o 20:00”). Nowy gracz, który pierwszy raz wejdzie w wieczór z 50 osobami, zostanie. Ten, który wejdzie w pustą środę rano, raczej nie.
 - Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc od razu mają towarzyszy i świat wydaje się pełniejszy.
+- **Stały rytm eventów** (np. co piątek i sobotę wieczorem) warto ustalić przed kampanią, bo daje nowym jasną odpowiedź, kiedy się logować.
 
 ## 4. Kanały
 
 | Kanał | Format | Segment | Uwagi |
 |---|---|---|---|
-| **YouTube** (do założenia, jeśli nie ma) | Trailer, „Jak zacząć w 5 minut”, klipy o rasach i bogach | A, B, C | Podpiąć pod pusty link „WIDEO” w menu strony |
+| **YouTube** (do założenia) | Trailer, „Jak zacząć w 5 minut”, klipy o rasach i bogach | A, B, C | Podpiąć pod pusty link „WIDEO” w menu strony |
 | **TikTok / Reels / Shorts** | Pion 15–30 s, 3–4 klipy tygodniowo | A | Najważniejszy kanał dla nowych. Hook w 1 s, zawsze napisy. Seria „Rasy Eldorii” (11 odcinków) i „Bogowie Eldorii” (8 odcinków) zapewnia treści na ponad miesiąc |
 | **Discordy pokrewnych gier (PL)** | Post + trailer (za zgodą adminów) | A, B | Margonem, Tibia PL, Metin2 PL, serwery fabularne i RPG, retro gaming |
 | **Fora i grupy RPG** | Opis świata, bogów, ras, zaproszenie do fabularyzacji | B | Polter, grupy FB z sesjami RPG online, Discordy RPG |
-| **Reddit** | r/Polska_wpz, r/gamingpolska, r/ultimaonline (EN) | A, C | Styl „zrobiliśmy to sami”, nie reklama |
+| **Reddit** | r/Polska_wpz, r/gamingpolska | A | Styl „zrobiliśmy to sami”, nie reklama |
 | **Wykop** | #gry #mmorpg #ultimaonline | C | Nostalgia + „mapa, jakiej Ultima nie widziała” |
 | **Facebook** (profil do założenia) | Grupy „Ultima Online PL”, retro gaming | C | Podpiąć pod ikonę w stopce strony |
 | **Twórcy YT/Twitch PL** | Zaproszenie na event „Nowa Krew” | A, B | 3–5 mniejszych twórców (1–20 tys.) działa lepiej niż jeden duży. **Uwaga:** regulamin zabrania materialnej pomocy od administracji, więc oferujemy mentora i przewodnika, nie przedmioty |
-| **Listy serwerów** | uoservers.com, uoaddicts.com, nostalgic.gg | C | Trailer + opis + głosowanie |
+| **Listy serwerów** | uoservers.com, uoaddicts.com, nostalgic.gg | C | Trailer + opis + głosowanie (listy są anglojęzyczne, ale wpis nic nie kosztuje) |
+
+### Zakładanie social mediów (przed T1)
+
+Jedna nazwa wszędzie, np. **@uogenesis** (sprawdźcie dostępność; zapasowo @genesis.uo lub @eldoria.genesis). Wspólne logo i baner (tło z AI-11, czyli dusze na czarnym tle).
+
+| Profil | Priorytet | Po co |
+|---|---|---|
+| **TikTok** | ★★★ | Główne źródło nowych graczy |
+| **YouTube** | ★★★ | Trailer, poradniki, Shorts. Podpiąć pod link „WIDEO” na stronie |
+| **Instagram** | ★★ | Te same Reels co na TikToku. Podpiąć pod ikonę w stopce |
+| **Facebook** (strona) | ★★ | Dotarcie do grup UO i weteranów. Podpiąć pod ikonę w stopce |
+
+Gotowe opisy profili są w [05-teksty-postow.md](05-teksty-postow.md). Nie trzeba od razu robić pięciu kont: TikTok i YouTube wystarczą na start, a IG i FB to kopie tych samych klipów.
 
 ## 5. Harmonogram (6 tygodni + przygotowanie)
 
@@ -84,7 +101,11 @@ Licznik na stronie pokazywał 11 osób online. Jeśli trailer obieca „setki gr
 
 Najdroższy błąd kampanii to ściągnięcie ludzi, którzy odpadną na instalacji. Kolejność ważności:
 
-1. **Podpis cyfrowy instalatora i launchera (code signing).** Obecna instrukcja każe klikać „Pobierz niezweryfikowany plik”, „Uruchom mimo to” i dodawać wyjątek w antywirusie. Nowy gracz uzna to za wirusa. Certyfikat code-signing kosztuje od ok. 300–400 zł rocznie. Jeśli nie da się go kupić, trzeba **nagrać 60-sekundowy film instalacji** i wyjaśnić wprost: „Windows ostrzega, bo nie płacimy za certyfikat. To normalne dla projektów non-profit.”
+1. **Ostrzeżenia przy instalacji.** Obecna instrukcja każe klikać „Pobierz niezweryfikowany plik”, „Uruchom mimo to” i dodawać wyjątek w antywirusie. Nowy gracz uzna to za wirusa. Przy budżecie 0 zł certyfikat code-signing odpada, więc:
+   - **nagrać 60-sekundowy film instalacji** (GP-14), który pokazuje ostrzeżenia i mówi wprost: „Windows ostrzega, bo projekty non-profit nie płacą za certyfikat. To normalne.”;
+   - wstawić ten film **na górę strony Instalacja**;
+   - **zgłosić launcher do Microsoftu jako fałszywy alarm** (formularz przesyłania plików w Microsoft Security Intelligence, darmowy) i to samo zrobić u popularnych antywirusów. Po zgłoszeniu ostrzeżeń zwykle jest mniej;
+   - podać na stronie wynik skanu VirusTotal launchera (darmowy) jako dowód, że plik jest czysty.
 2. **Strona „Zacznij tutaj”** (jest już zalążek w sekcji „Jak zacząć grę”): 4 kroki, film instalacji, link do Discorda, akapit o Przystani Orrena i statusie [Młody] („pierwsze 168 godzin nikt cię nie zabije”).
 3. **Uzupełnić wiki „Stworzona postać... co dalej?”** (teraz jest tam [do uzupełnienia]).
 4. **Discord:** kanał powitalny dla nowych, rola „Mentor” (ochotnicy), przypięta wiadomość „Jak zacząć”.
@@ -99,15 +120,24 @@ Najdroższy błąd kampanii to ściągnięcie ludzi, którzy odpadną na instala
 - **Dołączenia na Discorda** z osobnych zaproszeń dla każdego kanału (YT, TikTok, Reddit, Wykop, FB), żeby wiedzieć, co działa
 - Wyświetlenia trailera, CTR linku w opisie, obserwujący na TikToku
 
-Konkretne cele liczbowe ustalimy, gdy ekipa poda dane bazowe (patrz [06-otwarte-pytania.md](06-otwarte-pytania.md)).
+**Cele startowe** (baza: kilkanaście osób online na co dzień, ok. 50 na eventach):
+- **Szczyt online na evencie „Nowa Krew”: 80+ osób**
+- **Zwykły wieczór po kampanii: 25–30 osób online** (w praktyce: dwa razy więcej niż teraz)
+- **Retencja:** co najmniej 1 na 3 nowe postacie opuszcza Przystań Orrena i gra dalej po 30 dniach
 
-## 8. Budżet orientacyjny (wariant „prawie za darmo”)
+Liczbę nowych kont tygodniowo warto zacząć notować już teraz, żeby mieć punkt odniesienia.
 
-| Pozycja | Koszt |
-|---|---|
-| Certyfikat code-signing (zalecany) | ok. 300–1000 zł/rok |
-| Generator obrazu i wideo AI (1–2 miesiące) | ok. 100–400 zł |
-| Muzyka z licencją | 0–150 zł/mies. |
-| Lektor (ktoś ze społeczności albo AI) | 0–500 zł |
-| Montaż | społeczność, DaVinci Resolve (darmowy) |
-| Promowane posty (dopiero gdy ścieżka nowego gracza działa) | od 300 zł |
+## 8. Budżet: 0 zł
+
+Wszystko da się zrobić za darmo. Ceną jest czas i limity darmowych planów.
+
+| Pozycja | Darmowe rozwiązanie | Uwagi |
+|---|---|---|
+| Obrazy AI (klatki kluczowe) | Darmowe generatory z dziennymi limitami, np. Bing Image Creator, Leonardo, Ideogram, Gemini | Limity się zmieniają, sprawdźcie aktualne |
+| Wideo AI | Darmowe kredyty (często odnawiane codziennie) w Kling, Hailuo, Pika, Luma, Vidu | Na 11 ujęć trailera + serie klipów trzeba rozłożyć generowanie na **2–3 tygodnie** i korzystać z kilku narzędzi naraz. Darmowe plany często dodają znak wodny, więc sprawdźcie to przed wyborem narzędzia do ujęć finalnych |
+| Muzyka | **YouTube Audio Library**, Pixabay Music | Bezpieczne licencyjnie. Darmowe plany generatorów muzyki (Suno, Udio) zwykle **nie pozwalają na użycie komercyjne**, więc lepiej ich unikać |
+| Lektor AI | Darmowe plany TTS z polskimi głosami (np. ElevenLabs Free) | Darmowe plany zwykle wymagają podpisu autora głosu w opisie filmu. Szczegóły w [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
+| Montaż | **DaVinci Resolve** (trailer 16:9), **CapCut** (klipy pionowe, automatyczne napisy) | Oba darmowe |
+| Nagrywanie | **OBS Studio** | Darmowy |
+| Reklamy płatne | Brak | Zamiast nich: twórcy, Discordy, grupy, Reddit, Wykop |
+| Certyfikat code-signing | Brak | Zamiast niego: film instalacji + zgłoszenie fałszywego alarmu (sekcja 6) |

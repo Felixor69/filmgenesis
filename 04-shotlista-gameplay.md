@@ -34,6 +34,7 @@ Priorytet: ★★★ niezbędne, ★★ ważne, ★ jeśli się uda.
 | GP-14 | ★★ | **Instalacja** od strony do logowania, **łącznie z ostrzeżeniem Windows** | Czysty pulpit, bez prywatnych rzeczy | klip „Jak zacząć w 5 minut” |
 | GP-15 | ★ | Dalamar: miasto, Dom Aukcyjny, event fabularny z Quest Masterką | Jeśli akurat jest event, nagrać go | „Kroniki Eldorii” |
 | GP-16 | ★ | Panoramy Eldorii: najładniejsze miejsca nowej mapy | Kamera GM idzie płynnie w jednym kierunku | tło planszy końcowej |
+| **GP-17** | ★★★ | **Prawdziwy event z ok. 50 osobami** | Nagrać podczas najbliższego dużego eventu: szeroki kadr całego zgromadzenia (kamera GM z góry lub z boku) i kilka zbliżeń na grupki. Uprzedzić graczy, że event jest nagrywany | Akt VI, klipy „Kroniki Eldorii” |
 
 ## Plan sesji nagraniowej (ok. 2 godziny, 5–10 osób)
 
@@ -45,6 +46,8 @@ Nie potrzebujemy tłumu, tylko **dobrze dobranej drużyny różnych ras**. Ogło
 4. **1:10–1:30:** loch oświetlony reliktami, runy, kuźnia (GP-11).
 5. **1:30–1:45:** drużyna pozuje (GP-12).
 6. **1:45–2:00:** ujęcia zapasowe, panoramy (GP-16).
+
+**GP-17 (tłum) nagrywamy osobno, podczas zwykłego dużego eventu**, bo tylko wtedy jest ok. 50 osób. Można też ogłosić, że najbliższy event jest „eventem trailerowym”, co zwykle ściąga dodatkowych ludzi.
 
 Ujęcia GP-02, GP-13 i GP-14 nagrywa jedna osoba na świeżym koncie (Przystań Orrena jest tylko dla postaci [Młody]).
 

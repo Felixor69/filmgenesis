@@ -7,6 +7,38 @@ Do uzupełnienia po publikacji: `[LINK_YT]` (trailer).
 
 **Zasada uczciwości:** nigdzie nie piszemy „setki graczy”. Piszemy o świecie, historii i bezpiecznym starcie.
 
+**Zasada eventów:** tam, gdzie się da, dopisujemy termin najbliższego eventu (`[EVENT: dzień, godzina]`). Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi.
+
+---
+
+## Opisy nowych profili
+
+Nazwa wszędzie: **Genesis: Ultima Online** · uchwyt **@uogenesis** (lub zapasowy)
+
+**TikTok / Instagram (bio, do 80 znaków):**
+```
+Darmowy polski serwer Ultima Online 🕯️ Świat, który zapamięta ciebie 👇
+```
+Link w bio: `https://uogenesis.pl/instalacja/`
+
+**YouTube (opis kanału):**
+```
+Genesis to darmowy, polski serwer Ultima Online z własnym światem Eldorii: 11 ras z własnym
+wyglądem, 8 bóstw, relikty, które świecą duszami w ciemności, Upiorni Jeźdźcy i eventy fabularne.
+Tu znajdziesz trailery, poradniki dla nowych graczy i kroniki wydarzeń ze świata.
+
+Jak zacząć: https://uogenesis.pl/instalacja/
+Discord: https://discord.gg/dhrwsxWyHf
+Wiki: https://wiki.uogenesis.pl
+```
+
+**Facebook (strona, sekcja „Informacje”):**
+```
+Genesis to darmowy, polski serwer Ultima Online, „Ultima Online, jaką pamiętasz... ale lepsza”.
+Własny świat Eldorii zrobiony od zera, 11 ras, 8 bóstw, rzemiosło, PvP i eventy fabularne.
+Nowi gracze zaczynają na bezpiecznej wyspie Przystań Orrena. Zapraszamy!
+```
+
 ---
 
 ## YouTube: trailer
@@ -31,11 +63,13 @@ Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody. Obiecamy ci świat, który
 ▶ Jak zacząć: https://uogenesis.pl/instalacja/
 💬 Discord: https://discord.gg/dhrwsxWyHf
 📖 Wiki: https://wiki.uogenesis.pl
+🎉 Najbliższy event: [EVENT: dzień, godzina]
 
 W trailerze łączymy ujęcia artystyczne (tak to czujesz) z prawdziwym gameplayem (tak to wygląda).
 Każde ujęcie oznaczone „Grafika z gry” pochodzi bezpośrednio z serwera, bez upiększeń.
 
 Dziękujemy graczom, którzy wystąpili w trailerze: [NICKI]
+Głos lektora: [NARZĘDZIE TTS] · Muzyka: [TYTUŁ, AUTOR, ŹRÓDŁO]
 
 #UltimaOnline #MMORPG #Genesis #RPG #gry
 ```
@@ -78,19 +112,6 @@ Co ma Genesis:
 Społeczność jest kameralna, więc nowa osoba naprawdę nie ginie w tłumie.
 Trailer (część ujęć to AI jako „wizja”, reszta to prawdziwy gameplay, oznaczony): [LINK_YT]
 Chętnie odpowiemy na pytania, szczególnie osobom, które nigdy nie grały.
-```
-
-### r/ultimaonline (EN, opcjonalnie)
-**Tytuł:** `Genesis (Polish shard): a hand-made new map, 11 races with custom models, and nights you can only light with your god's relic`
-```
-Hi! Genesis is a Polish UO shard that launched in March 2026. A few things we're proud of:
-a completely new, hand-built world (Eldoria), 11 races with their own models and animations,
-a faith system with 8 gods where collected souls power a relic that's your only light at night,
-Spectral Riders you can defeat and tame, random Alpha creatures, and a rune socketing system.
-
-The trailer mixes AI "imagination" shots with real, unedited in-game footage (marked as such).
-Trailer: [LINK_YT] · Site: https://uogenesis.pl
-Note: the shard and community are Polish-speaking.
 ```
 
 ---

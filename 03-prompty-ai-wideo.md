@@ -4,6 +4,7 @@ Prompty są **po angielsku**, bo generatory (Veo, Kling, Runway, Sora, Hailuo, L
 
 ## 1. Workflow (dla spójności ujęć)
 
+0. **Darmowe limity.** Przy budżecie 0 zł korzystamy z darmowych, codziennie odnawianych kredytów w kilku narzędziach naraz (patrz strategia, sekcja 8). Kolejność generowania: najpierw 11 ujęć trailera, potem serie klipów. Kredytów nie wydajemy na próby „na ślepo”: klatkę kluczową dopracowujemy za darmo w generatorze obrazów i dopiero ją animujemy. Przy wyborze narzędzia do ujęć finalnych sprawdzamy, czy nie dodaje znaku wodnego.
 1. **Najpierw obraz, potem ruch (image-to-video).** Klatkę kluczową generujemy modelem obrazu (Midjourney, Flux, Imagen, GPT-image…), wybieramy najlepszą i dopiero ją animujemy. Daje to kontrolę nad kompozycją pod match cut.
 2. **Arkusze postaci.** Wojownika i maga z Przystani (AI-03, AI-10) oraz rasy (AI-04–06) generujemy najpierw jako arkusze referencyjne: przód, profil, cała postać. Potem używamy ich jako referencji w każdym ujęciu.
 3. **Referencja z gry.** Przed generowaniem robimy screenshot ujęcia GP, z którym łączymy AI (np. model Pół-Demona w grze), i dajemy go jako referencję kolorów i kostiumu. **Kolory stroju, skrzydeł czy płomieni w AI muszą się zgadzać z modelem w grze**, inaczej match cut nie zadziała.
@@ -181,7 +182,11 @@ Wspólny szablon: `Cinematic portrait of a [RACE] adventurer in Eldoria, [DETAIL
 
 ---
 
-## 5. Muzyka (Suno/Udio z licencją komercyjną albo biblioteka royalty-free)
+## 5. Muzyka
+
+**Przy budżecie 0 zł: YouTube Audio Library lub Pixabay Music.** Szukajcie haseł: `epic`, `dark fantasy`, `cinematic trailer`, `medieval`. Najlepiej utwór 1,5–2 min, z którego wytniecie 80 s z wyraźnym narastaniem. Darmowe plany generatorów muzyki AI zwykle nie dają licencji komercyjnej, więc ich nie używamy.
+
+Poniższy opis służy jako wzór przy wyszukiwaniu utworu (albo prompt, jeśli kiedyś pojawi się płatny plan):
 
 ```
 Dark cinematic fantasy trailer score, 95 BPM, 80 seconds. 0:00 low drone, breathing textures and a single
@@ -194,4 +199,4 @@ Zachowajcie dowód licencji (plan, data generowania), bo Content ID na YouTube p
 
 ## 6. Lektor
 
-Najlepiej ktoś ze społeczności lub z ekipy. To też dobry materiał na post („głos trailera to nasz gracz X”). Awaryjnie głos AI (np. ElevenLabs) w polskim wariancie: **niski, spokojny, szepczący na początku, pewny na końcu**, jak narrator legendy, a nie spiker reklamy.
+Lektor AI. Tekst przygotowany pod syntezę mowy i ustawienia głosu są w [07-montaz-i-lektor.md](07-montaz-i-lektor.md).

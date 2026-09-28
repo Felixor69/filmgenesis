@@ -1,17 +1,21 @@
-# Otwarte pytania (tego nie ma na stronie ani na wiki)
+# Ustalenia i otwarte pytania
 
-Wszystko, co dało się ustalić ze strony, wiki i regulaminu, jest w [00-fakty-o-serwerze.md](00-fakty-o-serwerze.md). Poniżej zostały tylko decyzje i dane wewnętrzne ekipy.
+## Ustalone z ekipą
 
-## Decyzje
-1. **Budżet:** ile możecie wydać na certyfikat code-signing, generator AI, muzykę i ewentualne reklamy?
-2. **Montaż:** kto będzie montował trailer?
-3. **Lektor:** ktoś ze społeczności czy głos AI?
-4. **Termin:** kiedy premiera teasera i trailera? Czy jest data, pod którą planujemy (duża aktualizacja z roadmapy, ferie, święta)?
-5. **Wersja EN:** robimy ją, czy kampania jest tylko po polsku?
-6. **Social media:** czy macie już jakiś kanał YT, profil FB lub IG? Stopka strony prowadzi na ogólne facebook.com i instagram.com.
+| Temat | Decyzja |
+|---|---|
+| Budżet | **0 zł**: darmowe narzędzia i darmowe limity (strategia, sekcja 8) |
+| Montaż | Jedna osoba z ekipy: plan pracy w [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
+| Lektor | **AI** (TTS z polskim głosem) |
+| Język | **Tylko polski** |
+| Social media | Brak, **zakładamy od zera** (TikTok i YouTube na start, potem IG i FB) |
+| Online | Kilkanaście osób na co dzień, **ok. 50, gdy coś się dzieje** |
 
-## Dane
-7. **Liczby bazowe:** średni i szczytowy online, liczba nowych kont tygodniowo. Potrzebne do celów kampanii.
-8. **Sesja nagraniowa:** ile osób realnie przyjdzie i czy są wśród nich postacie wszystkich ras?
-9. **Kamera GM i serwer testowy:** czy ekipa może nagrywać niewidzialną postacią i ustawiać porę dnia na serwerze testowym?
-10. **Nagrody za udział:** czy administracja dopuszcza jakąkolwiek symboliczną nagrodę w grze (regulamin zabrania materialnej pomocy od administracji)?
+## Jeszcze do ustalenia
+
+1. **Terminy eventów.** Kiedy są (albo mogą być) stałe eventy, np. piątek i sobota o 20:00? Termin trafi na plansze końcowe i do opisów, żeby nowi gracze wchodzili wtedy, gdy jest najwięcej ludzi.
+2. **Data startu kampanii.** Kiedy premiera teasera? Proponowany plan to 4 tygodnie produkcji, potem 6 tygodni kampanii.
+3. **Sesja nagraniowa.** Czy uda się zebrać 5–10 osób z postaciami różnych ras (szczególnie Pół-Anioł, Pół-Demon, Nieumarły)?
+4. **Kamera GM i serwer testowy.** Czy ekipa może nagrywać niewidzialną postacią i ustawiać porę dnia na serwerze testowym?
+5. **Event „Nowa Krew”.** Czy Quest Masterka (Triacz3k) poprowadzi event fabularny dla nowych graczy w tygodniu 5 kampanii?
+6. **Liczba nowych kont tygodniowo.** Warto zacząć ją notować już teraz, żeby było z czym porównać wyniki kampanii.

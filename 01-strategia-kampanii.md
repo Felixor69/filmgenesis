@@ -127,16 +127,16 @@ Najdroższy błąd kampanii to ściągnięcie ludzi, którzy odpadną na instala
 
 Liczbę nowych kont tygodniowo warto zacząć notować już teraz, żeby mieć punkt odniesienia.
 
-## 8. Budżet: 0 zł
+## 8. Budżet: 0 zł dodatkowych wydatków
 
-Wszystko da się zrobić za darmo. Ceną jest czas i limity darmowych planów.
+Korzystamy z subskrypcji, które już macie, i z darmowych narzędzi.
 
-| Pozycja | Darmowe rozwiązanie | Uwagi |
+| Pozycja | Narzędzie | Uwagi |
 |---|---|---|
-| Obrazy AI (klatki kluczowe) | Darmowe generatory z dziennymi limitami, np. Bing Image Creator, Leonardo, Ideogram, Gemini | Limity się zmieniają, sprawdźcie aktualne |
-| Wideo AI | Darmowe kredyty (często odnawiane codziennie) w Kling, Hailuo, Pika, Luma, Vidu | Na 11 ujęć trailera + serie klipów trzeba rozłożyć generowanie na **2–3 tygodnie** i korzystać z kilku narzędzi naraz. Darmowe plany często dodają znak wodny, więc sprawdźcie to przed wyborem narzędzia do ujęć finalnych |
-| Muzyka | **YouTube Audio Library**, Pixabay Music | Bezpieczne licencyjnie. Darmowe plany generatorów muzyki (Suno, Udio) zwykle **nie pozwalają na użycie komercyjne**, więc lepiej ich unikać |
-| Lektor AI | Darmowe plany TTS z polskimi głosami (np. ElevenLabs Free) | Darmowe plany zwykle wymagają podpisu autora głosu w opisie filmu. Szczegóły w [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
+| Obrazy AI (klatki kluczowe) | **ChatGPT** + **Gemini** (już opłacone) | Gemini dobrze zachowuje tę samą postać przy edycji obrazu |
+| Wideo AI | **Veo w Gemini** (już opłacone), Sora w ChatGPT jako zapas | Dzienny limit Veo jest ograniczony, więc generowanie rozkładamy na **2–3 tygodnie**. Sprawdźcie, czy wideo ma widoczny znak wodny |
+| Muzyka | **Suno** (już opłacone) | Prompty w [03-prompty-ai-wideo.md](03-prompty-ai-wideo.md), sekcja 5 |
+| Lektor AI | **Gemini TTS w Google AI Studio** | Szczegóły w [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
 | Montaż | **DaVinci Resolve** (trailer 16:9), **CapCut** (klipy pionowe, automatyczne napisy) | Oba darmowe |
 | Nagrywanie | **OBS Studio** | Darmowy |
 | Reklamy płatne | Brak | Zamiast nich: twórcy, Discordy, grupy, Reddit, Wykop |

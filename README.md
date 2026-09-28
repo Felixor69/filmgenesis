@@ -16,7 +16,7 @@ Materiały do kampanii promującej polski shard Ultima Online **Genesis** ([uoge
 | [06-otwarte-pytania.md](06-otwarte-pytania.md) | Ustalenia z ekipą i to, co zostało do ustalenia |
 | [07-montaz-i-lektor.md](07-montaz-i-lektor.md) | Montaż w DaVinci i CapCut, tekst dla lektora AI, plan pracy dla jednej osoby |
 
-**Założenia:** budżet 0 zł · montaż robi jedna osoba · lektor AI · tylko po polsku · social media od zera · online kilkanaście osób na co dzień, ok. 50 na eventach.
+**Założenia:** budżet 0 zł (narzędzia AI: opłacone już Suno, Gemini z Veo, ChatGPT) · montaż robi jedna osoba · lektor AI · tylko po polsku · social media od zera · online kilkanaście osób na co dzień, ok. 50 na eventach.
 
 ## Najważniejsze w skrócie
 

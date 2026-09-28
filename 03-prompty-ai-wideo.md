@@ -1,11 +1,26 @@
 # Prompty AI wideo i biblia stylu
 
-Prompty są **po angielsku**, bo generatory (Veo, Kling, Runway, Sora, Hailuo, Luma) dają wtedy najlepsze wyniki. Opisy i uwagi są po polsku. Numeracja ujęć odpowiada [02-scenariusz-trailera.md](02-scenariusz-trailera.md).
+Prompty są **po angielsku**, bo generatory wideo i obrazu dają wtedy najlepsze wyniki. Opisy i uwagi są po polsku. Numeracja ujęć odpowiada [02-scenariusz-trailera.md](02-scenariusz-trailera.md).
+
+## 0. Narzędzia (to, co już macie)
+
+| Zadanie | Narzędzie | Jak |
+|---|---|---|
+| **Klatki kluczowe (obrazy)** | **ChatGPT** (generowanie obrazów) i **Gemini** (generowanie i edycja obrazów) | ChatGPT dobrze trzyma się złożonych opisów kompozycji. Gemini dobrze **edytuje istniejący obraz, zachowując tę samą postać** („ta sama postać, teraz w pełnej zbroi, na klifie”), co przydaje się przy bohaterach z Przystani i rasach. Wygeneruj w obu i wybierz lepszy obraz |
+| **Wideo (animacja klatek)** | **Veo** w Gemini (oraz w Google Flow, jeśli wasz plan go obejmuje) | Tryb obraz → wideo: wgrywasz klatkę kluczową i dopisujesz prompt ruchu. Ujęcia ok. 8 s, 16:9 lub 9:16 |
+| **Wideo (zapas)** | **Sora** w ChatGPT (jeśli jest w waszym planie) | Do ujęć, które w Veo nie wychodzą |
+| **Muzyka** | **Suno** (płatny plan) | Patrz sekcja 5 |
+| **Lektor** | Gemini TTS (Google AI Studio) | Patrz [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
+| **Teksty** | ChatGPT lub Gemini | Warianty hooków, podpisów i opisów na bazie [05-teksty-postow.md](05-teksty-postow.md) |
+
+**Do sprawdzenia w waszych planach, zanim zaczniecie:** dzienny limit filmów Veo, czy wideo ma **widoczny znak wodny** (jeśli tak, sprawdźcie, czy Flow albo wyższa rozdzielczość go nie usuwa, bo przycinanie kadru psuje kompozycję), dostępność Sory w waszym regionie i planie.
+
+**Dźwięk z Veo:** Veo generuje też dźwięk. Muzyki z Veo nie używamy (mamy Suno), ale **odgłosy otoczenia z Veo mogą się przydać** (tętent, wiatr, ogień, szron). Dopisz do promptu linijkę `Audio: ...` (przykłady przy ujęciach), a w montażu zostaw tylko efekty.
 
 ## 1. Workflow (dla spójności ujęć)
 
-0. **Darmowe limity.** Przy budżecie 0 zł korzystamy z darmowych, codziennie odnawianych kredytów w kilku narzędziach naraz (patrz strategia, sekcja 8). Kolejność generowania: najpierw 11 ujęć trailera, potem serie klipów. Kredytów nie wydajemy na próby „na ślepo”: klatkę kluczową dopracowujemy za darmo w generatorze obrazów i dopiero ją animujemy. Przy wyborze narzędzia do ujęć finalnych sprawdzamy, czy nie dodaje znaku wodnego.
-1. **Najpierw obraz, potem ruch (image-to-video).** Klatkę kluczową generujemy modelem obrazu (Midjourney, Flux, Imagen, GPT-image…), wybieramy najlepszą i dopiero ją animujemy. Daje to kontrolę nad kompozycją pod match cut.
+0. **Limity Veo.** Dzienny limit filmów jest ograniczony, więc nie animujemy na ślepo. Klatkę kluczową dopracowujemy w ChatGPT lub Gemini (obrazy mają dużo większe limity) i dopiero gotowy kadr idzie do Veo. Kolejność: najpierw 11 ujęć trailera, potem serie klipów.
+1. **Najpierw obraz, potem ruch (image-to-video).** Klatkę kluczową generujemy w ChatGPT lub Gemini, wybieramy najlepszą i dopiero ją animujemy w Veo. Daje to kontrolę nad kompozycją pod match cut.
 2. **Arkusze postaci.** Wojownika i maga z Przystani (AI-03, AI-10) oraz rasy (AI-04–06) generujemy najpierw jako arkusze referencyjne: przód, profil, cała postać. Potem używamy ich jako referencji w każdym ujęciu.
 3. **Referencja z gry.** Przed generowaniem robimy screenshot ujęcia GP, z którym łączymy AI (np. model Pół-Demona w grze), i dajemy go jako referencję kolorów i kostiumu. **Kolory stroju, skrzydeł czy płomieni w AI muszą się zgadzać z modelem w grze**, inaczej match cut nie zadziała.
 4. **3–6 wariantów na ujęcie**, długość 4–8 s, przycinanie w montażu.
@@ -62,6 +77,7 @@ on a gold chain. Only the souls give light. Very slow push-in. [STYLE]
 The souls flow into the crescent amulet which flares with warm golden light, the glow expanding outward
 in a circle and revealing a dark ancient forest around a hooded adventurer. At the very edge of the light,
 in the mist, a tall shadowy silhouette stands still, watching. Slow pull-back. [STYLE]
+Audio: a soft resonant chime as the relic flares, quiet forest night ambience, no music.
 ```
 **Match cut z GP-01:** krąg światła wokół postaci w centrum kadru, czarna reszta ekranu.
 
@@ -86,6 +102,7 @@ Low angle, camera rising. [STYLE]
 A half-demon with small curved horns and ember-cracked skin raises a clawed hand; the ground splits
 and a mustang made of living fire bursts out of the flames and rears up beside them, sparks and smoke
 swirling. Night, ruined battlefield. Slow orbit. [STYLE]
+Audio: roaring flames, a fiery horse neigh, crackling embers, no music.
 ```
 
 ### AI-06 · Nieumarły (0:30–0:32) · statyczna, zbliżenie na ziemię
@@ -113,6 +130,7 @@ with a cold pale glow in the visor slits, armor rustling like old parchment. The
 never touch the ground, leaving trails of frost that form letters of an unknown alphabet.
 Breath turns to vapor, torches die out. Static camera, riders approach toward it. Eerie, silent. [STYLE,
 cold teal and frost-blue palette]
+Audio: muffled ghostly hoofbeats, creaking frost, cold wind, faint whispers, no music.
 ```
 To najlepszy potwór do trailera: ma gotową legendę na wiki („Orszak z Drugiej Strony”). **Referencja kolorów:** model Upiornego Jeźdźca z gry.
 
@@ -182,20 +200,52 @@ Wspólny szablon: `Cinematic portrait of a [RACE] adventurer in Eldoria, [DETAIL
 
 ---
 
-## 5. Muzyka
+## 5. Muzyka (Suno)
 
-**Przy budżecie 0 zł: YouTube Audio Library lub Pixabay Music.** Szukajcie haseł: `epic`, `dark fantasy`, `cinematic trailer`, `medieval`. Najlepiej utwór 1,5–2 min, z którego wytniecie 80 s z wyraźnym narastaniem. Darmowe plany generatorów muzyki AI zwykle nie dają licencji komercyjnej, więc ich nie używamy.
+Na płatnym planie Suno utwory wygenerowane w czasie aktywnej subskrypcji można wykorzystywać komercyjnie (sprawdźcie aktualne warunki swojego planu). **Zapiszcie datę generowania i zrzut ekranu planu** na wypadek zgłoszenia Content ID na YouTube.
 
-Poniższy opis służy jako wzór przy wyszukiwaniu utworu (albo prompt, jeśli kiedyś pojawi się płatny plan):
+**Tryb:** Custom · **Instrumental: włączony**
 
+**Style of Music:**
 ```
-Dark cinematic fantasy trailer score, 95 BPM, 80 seconds. 0:00 low drone, breathing textures and a single
-distant bell; 0:12 gentle hopeful strings and soft flute over sea ambience; 0:22 tribal war drums enter,
-one heavy hit per beat; 0:38 wordless choir rises; 0:48 sudden tension: cold high strings, ghostly
-whispers and distant hoofbeats; 0:58 full orchestra and choir climax; 1:12 silence, then one final deep
-orchestral hit and a soft shimmering chime. No lyrics.
+dark cinematic fantasy trailer, orchestral, epic, war drums, wordless choir, celtic strings,
+ethereal bells, brooding, building intensity, 95 bpm
 ```
-Zachowajcie dowód licencji (plan, data generowania), bo Content ID na YouTube potrafi się przyczepić.
+
+**Pole Lyrics (znaczniki struktury, bez słów):**
+```
+[Intro]
+[low drone, single distant bell, breathing textures]
+
+[Verse]
+[gentle hopeful strings, soft flute, sea ambience]
+
+[Build]
+[tribal war drums enter, heavy hits on every beat]
+
+[Pre-Chorus]
+[wordless choir rises]
+
+[Bridge]
+[sudden tension, cold high strings, ghostly whispers, distant hoofbeats]
+
+[Chorus]
+[full orchestra and choir climax, massive]
+
+[Outro]
+[silence, one final deep orchestral hit, soft shimmering chime]
+
+[End]
+```
+
+**Wskazówki:**
+- Wygeneruj 6–10 wersji i wybierz tę, której **narastanie najlepiej pasuje do scenariusza**. Utwór nie musi mieć dokładnie 80 s, bo docinasz go w montażu (skracasz środek, zostawiasz intro i finał).
+- Jeśli plan to umożliwia, pobierz **ścieżki osobno (stems)**, np. perkusję osobno. Łatwiej wtedy przyciszyć melodię pod lektora i zostawić bębny.
+- **Osobne krótkie utwory** do klipów pionowych (15–30 s, mocny start od pierwszej sekundy):
+  - „Rasy Eldorii”: `epic fantasy percussion, fast hybrid trailer drums, heroic brass stabs, 120 bpm, instrumental`
+  - „Bogowie Eldorii”: `sacred dark ambient, choir pads, temple bells, mysterious, slow, instrumental`
+  - „Orszak z Drugiej Strony”: `dark horror ambient, cold wind, ghostly choir, distant hoofbeats, dread, instrumental`
+- Jeden **motyw przewodni Genesis** (krótka melodia) warto powtarzać we wszystkich materiałach. W Suno możesz przedłużać (Extend) albo przerabiać (Cover) wybrany utwór, żeby zachować motyw w różnych wersjach.
 
 ## 6. Lektor
 

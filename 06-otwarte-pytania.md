@@ -4,7 +4,7 @@
 
 | Temat | Decyzja |
 |---|---|
-| Budżet | **0 zł**: darmowe narzędzia i darmowe limity (strategia, sekcja 8) |
+| Budżet | **0 zł dodatkowo**: wykorzystujemy opłacone już Suno, Gemini i ChatGPT oraz darmowe narzędzia (strategia, sekcja 8) |
 | Montaż | Jedna osoba z ekipy: plan pracy w [07-montaz-i-lektor.md](07-montaz-i-lektor.md) |
 | Lektor | **AI** (TTS z polskim głosem) |
 | Język | **Tylko polski** |

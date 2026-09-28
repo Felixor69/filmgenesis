@@ -69,7 +69,7 @@ W trailerze łączymy ujęcia artystyczne (tak to czujesz) z prawdziwym gameplay
 Każde ujęcie oznaczone „Grafika z gry” pochodzi bezpośrednio z serwera, bez upiększeń.
 
 Dziękujemy graczom, którzy wystąpili w trailerze: [NICKI]
-Głos lektora: [NARZĘDZIE TTS] · Muzyka: [TYTUŁ, AUTOR, ŹRÓDŁO]
+Ujęcia artystyczne, muzyka i głos lektora wygenerowane z pomocą AI (Gemini/Veo, ChatGPT, Suno).
 
 #UltimaOnline #MMORPG #Genesis #RPG #gry
 ```

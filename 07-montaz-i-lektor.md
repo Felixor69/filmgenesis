@@ -7,14 +7,15 @@
 | Trailer 16:9 | **DaVinci Resolve** (darmowa wersja) | Pełny montaż, korekcja barwna, dźwięk (Fairlight), napisy, eksport do 4K |
 | Klipy pionowe 9:16 | **CapCut** (desktop) | Szybkie przycinanie, automatyczne napisy po polsku, gotowe proporcje pod TikTok i Reels |
 | Nagrywanie gry | **OBS Studio** | Patrz [04-shotlista-gameplay.md](04-shotlista-gameplay.md) |
+| Obrazy, wideo, muzyka, lektor | **ChatGPT, Gemini (Veo), Suno, Gemini TTS** | Kto do czego: [03-prompty-ai-wideo.md](03-prompty-ai-wideo.md), sekcja 0 |
 | Czcionki | **Google Fonts**: `Cinzel` (tytuły, napisy typu „PÓŁ-ANIOŁ”), `Cormorant Garamond` (cytaty), `Inter` (plansza końcowa, linki) | Darmowe, także do użytku komercyjnego |
 
 ## 2. Kolejność pracy nad trailerem
 
-1. **Najpierw lektor i muzyka.** Wygeneruj lektora (sekcja 5), wybierz muzykę i ułóż je na osi czasu. Rytm muzyki wyznacza cięcia.
+1. **Najpierw lektor i muzyka.** Wygeneruj lektora (sekcja 5) i muzykę w Suno, potem ułóż je na osi czasu. Rytm muzyki wyznacza cięcia.
 2. **Znaczniki na bitach.** W DaVinci odtwarzaj muzykę i na każdym mocnym uderzeniu wciskaj `M`, żeby wstawić znacznik. Na znacznikach tniesz ujęcia.
 3. **Szkielet z gameplayu.** Wstaw wszystkie ujęcia GP zgodnie ze scenariuszem, bo są pewne. Brakujące ujęcia AI zastąp na razie czarnymi planszami z opisem („AI-05 Pół-Demon”).
-4. **Ujęcia AI** wstawiaj w miarę generowania, bo przy darmowych kredytach to potrwa 2–3 tygodnie.
+4. **Ujęcia AI** wstawiaj w miarę generowania, bo przy dziennym limicie Veo to potrwa 2–3 tygodnie.
 5. **Napisy i plansze.**
 6. **Kolor.**
 7. **Miks dźwięku.**
@@ -44,7 +45,7 @@ Znak `Grafika z gry` (mały, w rogu, `Inter`, 60% krycia) pojawia się przy pier
 **Dźwięk (Fairlight):**
 - Lektor ok. **-6 dB** szczytowo, muzyka ściszana pod lektorem (**ducking**) o ok. 8–10 dB.
 - Na lektorze: lekki pogłos (Reverb, mały „hall”), podbicie niskich tonów (EQ, ok. +2 dB przy 120 Hz), kompresor. AI brzmi wtedy mniej „syntetycznie”, a bardziej jak narrator.
-- Efekty z darmowych bibliotek (Pixabay Sound Effects, YouTube Audio Library): dzwon, tętent, szept, ogień, szron.
+- Efekty: dźwięk otoczenia wygenerowany przez Veo razem z ujęciami AI (tętent, ogień, wiatr) oraz darmowe biblioteki (Pixabay Sound Effects, YouTube Audio Library): dzwon, szept, szron. Muzykę z plików Veo wyciszasz, bo muzyka jest z Suno.
 - Głośność końcowa pod YouTube: ok. **-14 LUFS** (miernik Loudness w Fairlight).
 
 **Eksport pod YouTube:** H.264 lub H.265, 1080p lub 4K, 24 fps, bitrate „Automatic – Best”. Wersja 4K dostaje na YouTube lepszą kompresję, nawet jeśli materiał z gry jest w 1080p.
@@ -53,11 +54,17 @@ Znak `Grafika z gry` (mały, w rogu, `Inter`, 60% krycia) pojawia się przy pier
 
 ## 5. Lektor AI
 
-**Narzędzie:** darmowy plan TTS z dobrymi polskimi głosami, np. ElevenLabs Free. **Przed publikacją sprawdź warunki darmowego planu.** Zwykle wymaga podpisu w opisie filmu (miejsce na to jest w opisie YouTube w [05-teksty-postow.md](05-teksty-postow.md)) i może ograniczać użycie komercyjne. Genesis jest non-profit, ale warto to potwierdzić w regulaminie narzędzia.
+**Narzędzie: Gemini TTS w Google AI Studio** (aistudio.google.com, tryb generowania mowy). Macie konto Google, dobrze radzi sobie z polskim, a przede wszystkim **sterujesz tonem zwykłym zdaniem**: szept, powoli, z napięciem. Zapasowo: ElevenLabs (darmowy plan wymaga podpisu w opisie filmu i może ograniczać użycie komercyjne).
 
-**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. Wybierz 2–3 głosy i porównaj je na pierwszym zdaniu.
+**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. Przesłuchaj kilka głosów na pierwszym zdaniu (w AI Studio np. Charon, Orus, Algenib, Enceladus) i wybierz jeden na cały trailer.
 
-**Ustawienia (ElevenLabs lub podobne):** Stability ok. 35–45% (więcej emocji) · Similarity ok. 75% · Style niski (0–20%). Wolniejsze tempo, jeśli narzędzie na to pozwala.
+**Jak pisać polecenie w AI Studio:** najpierw instrukcja tonu po polsku, potem tekst. Przykład:
+```
+Przeczytaj jako narrator mrocznej legendy fantasy: bardzo powoli, niskim, cichym szeptem,
+z długą pauzą na końcu:
+Bogowie patrzą...
+```
+Instrukcje tonu dla każdej linijki są w kolumnie „Uwagi” w tabeli niżej. Wklejaj je w tym samym stylu.
 
 **Zasady:**
 - Każdą linijkę generuj **osobno** i w kilku wersjach, potem wybierz najlepszą. Pauzy robisz w montażu, nie w TTS.
@@ -90,8 +97,8 @@ Znak `Grafika z gry` (mały, w rogu, `Inter`, 60% krycia) pojawia się przy pier
 
 | Tydzień | Zadania |
 |---|---|
-| 1 | Generowanie klatek kluczowych AI (obrazy są za darmo i bez limitu wideo). Lektor L01–L12. Wybór muzyki. Nagranie GP-01, GP-02, GP-13, GP-14 |
-| 2 | Sesja nagraniowa z drużyną (GP-03…GP-12). Animowanie ujęć AI w ramach dziennych limitów. Szkielet trailera |
+| 1 | Klatki kluczowe w ChatGPT i Gemini. Lektor L01–L12 w AI Studio. Muzyka w Suno. Nagranie GP-01, GP-02, GP-13, GP-14 |
+| 2 | Sesja nagraniowa z drużyną (GP-03…GP-12). Animowanie ujęć w Veo w ramach dziennego limitu. Szkielet trailera |
 | 3 | Ostatnie ujęcia AI. Nagranie eventu (GP-17). Montaż, kolor, dźwięk |
 | 4 | Teaser, wersja pionowa, pierwsze klipy z serii. Start kampanii (T1) |
 

@@ -64,14 +64,14 @@ Montaż w rytm bębnów. Każde uderzenie to jedna rasa.
 |---|---|---|
 | 1:02–1:07 | **AI-10** Wojownik z Aktu II, teraz w pełnym rynsztunku, stoi na klifie nad Eldorią o świcie. Relikt świeci mu przy pasie, obok mag i reszta drużyny. Odwraca się do kamery. | Lektor: *„Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody.”* |
 | 1:07–1:10 | **→ GP-12** Ta sama drużyna w grze: postacie stoją w rzędzie na tle krajobrazu i się kłaniają. | Lektor: *„Obiecamy ci tylko świat, który pamięta.”* |
-| 1:10–1:12 | **GP-17** Szeroki kadr z prawdziwego eventu: ok. 50 postaci zebranych wokół Quest Masterki | Tekst (mały): `Event w Eldorii, grafika z gry` |
+| 1:10–1:12 | **GP-17** Szeroki kadr z **Ognistego Portalu**: drużyny walczą o portal, ogień, czary | Tekst (mały): `Ognisty Portal · każda sobota 20:00 · grafika z gry` |
 
 ## Zakończenie (1:12–1:20)
 
 | Czas | Obraz | Tekst |
 |---|---|---|
 | 1:12–1:16 | **AI-11** Czerń. Dusze zlatują się i układają w napis **GENESIS** (logo dokładane w montażu) | Lektor: *„...i który zapamięta ciebie.”* |
-| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena · Eventy codziennie o [GODZINA]* (tę linijkę wstawiamy dopiero, gdy grafik codziennych eventów działa; wcześniej: „Eventy: [DNI I GODZINA]”) |
+| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena*<br>Ognisty Portal: soboty 20:00 · Deathmatch: nd, pn, śr 21:00 (gdy ruszą codzienne eventy, zamieniamy na „Eventy codziennie”) |
 
 ---
 
@@ -120,4 +120,6 @@ Kadrowanie: w UO postać jest zawsze w centrum ekranu, więc crop 9:16 z gamepla
 4. **„Orszak z Drugiej Strony”**: fragment legendy z wiki czytany przez lektora na tle AI-08 → walka z Jeźdźcem → oswojenie Widmaka.
 5. **„Pierwszy dzień w Przystani Orrena”**: nagranie ekranu z kreatora postaci i pierwszych minut. Pokazuje, że start jest prosty i bezpieczny.
 6. **„Jak zacząć w 5 minut”**: instalacja krok po kroku, **łącznie z ostrzeżeniem Windows i wyjaśnieniem, dlaczego się pojawia**.
-7. **„Kroniki Eldorii”**: wydarzenia fabularne z serwera (np. aukcja w Dalamarze i tajemniczy list Mordaina) opowiedziane jak zapowiedź serialu.
+7. **„Ognisty Portal”** (co tydzień, po sobocie): AI-12 (portal, patrz prompty) → najlepsze momenty z nagrania sobotniego eventu → „Kto zdobędzie portal w tę sobotę? 20:00”. Lektor może czytać fragment relacji z forum.
+8. **„Deathmatch”** (po każdym DM): najlepsze zabójstwo lub końcówka walki + aktualne podium rankingu → „Następny DM: [dzień] 21:00”.
+9. **„Kroniki Eldorii”**: wydarzenia fabularne z serwera (np. aukcja w Dalamarze i tajemniczy list Mordaina) opowiedziane jak zapowiedź serialu.

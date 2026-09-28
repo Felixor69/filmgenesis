@@ -7,7 +7,26 @@ Do uzupełnienia po publikacji: `[LINK_YT]` (trailer).
 
 **Zasada uczciwości:** nigdzie nie piszemy „setki graczy”. Piszemy o świecie, historii i bezpiecznym starcie.
 
-**Zasada eventów:** tam, gdzie się da, dopisujemy termin najbliższego eventu (`[EVENT: dzień, godzina]`). Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi. Gdy codzienne eventy ruszą na stałe, zamieniamy to na **„Event codziennie o [GODZINA]”**.
+**Zasada eventów:** tam, gdzie się da, dopisujemy terminy eventów. Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi. Obecnie:
+```
+🔥 Ognisty Portal: każda sobota, 20:00
+⚔️ Deathmatch: niedziela, poniedziałek, środa, 21:00
+```
+Gdy codzienne eventy ruszą na stałe, dopisujemy **„Event codziennie”**.
+
+**Seria „Ognisty Portal”** (po każdej sobocie):
+```
+Ognisty Portal znów się otworzył 🔥 Kto utrzymał wejście? Kto przepadł w płomieniach?
+Kolejny portal w sobotę o 20:00. Link w bio
+#mmorpg #ultimaonline #pvp #gry
+```
+
+**Seria „Deathmatch”** (po każdym DM):
+```
+Deathmatch w Genesis ⚔️ [NICK] na szczycie rankingu. Kto go zrzuci?
+Następny DM: [dzień] 21:00. Link w bio
+#pvp #mmorpg #ultimaonline
+```
 
 **Seria „Wczoraj w Eldorii”** (codziennie, pion 15–30 s, z nagrania wczorajszego eventu):
 ```
@@ -69,7 +88,8 @@ Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody. Obiecamy ci świat, który
 ▶ Jak zacząć: https://uogenesis.pl/instalacja/
 💬 Discord: https://discord.gg/dhrwsxWyHf
 📖 Wiki: https://wiki.uogenesis.pl
-🎉 Najbliższy event: [EVENT: dzień, godzina]
+🔥 Ognisty Portal: każda sobota, 20:00
+⚔️ Deathmatch: niedziela, poniedziałek, środa, 21:00
 
 W trailerze łączymy ujęcia artystyczne (tak to czujesz) z prawdziwym gameplayem (tak to wygląda).
 Każde ujęcie oznaczone „Grafika z gry” pochodzi bezpośrednio z serwera, bez upiększeń.

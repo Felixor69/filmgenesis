@@ -34,7 +34,8 @@ Priorytet: ★★★ niezbędne, ★★ ważne, ★ jeśli się uda.
 | GP-14 | ★★ | **Instalacja** od strony do logowania, **łącznie z ostrzeżeniem Windows** | Czysty pulpit, bez prywatnych rzeczy | klip „Jak zacząć w 5 minut” |
 | GP-15 | ★ | Dalamar: miasto, Dom Aukcyjny, event fabularny z Quest Masterką | Jeśli akurat jest event, nagrać go | „Kroniki Eldorii” |
 | GP-16 | ★ | Panoramy Eldorii: najładniejsze miejsca nowej mapy | Kamera GM idzie płynnie w jednym kierunku | tło planszy końcowej |
-| **GP-17** | ★★★ | **Prawdziwy event z ok. 50 osobami** | Nagrać podczas najbliższego dużego eventu: szeroki kadr całego zgromadzenia (kamera GM z góry lub z boku) i kilka zbliżeń na grupki. Uprzedzić graczy, że event jest nagrywany | Akt VI, klipy „Kroniki Eldorii” |
+| **GP-17** | ★★★ | **Ognisty Portal** (sobota, 20:00) | Szeroki kadr bitwy o portal (kamera GM z boku lub z góry), zbliżenia na sam portal, wejście drużyny do środka, walka ze strażnikami. Nagrywać **kilka sobót z rzędu** i wybrać najlepsze momenty. Uprzedzić graczy na Discordzie, że event jest nagrywany | Akt VI, AI-12, seria „Ognisty Portal” |
+| GP-18 | ★★ | **Deathmatch** (nd, pn, śr 21:00) | Nagrywać każdy DM w całości, potem wycinać najlepsze akcje do klipów. Do tego screenshot aktualnego rankingu | seria „Deathmatch” |
 
 ## Plan sesji nagraniowej (ok. 2 godziny, 5–10 osób)
 
@@ -47,7 +48,7 @@ Nie potrzebujemy tłumu, tylko **dobrze dobranej drużyny różnych ras**. Ogło
 5. **1:30–1:45:** drużyna pozuje (GP-12).
 6. **1:45–2:00:** ujęcia zapasowe, panoramy (GP-16).
 
-**GP-17 (tłum) nagrywamy osobno, podczas zwykłego dużego eventu**, bo tylko wtedy jest ok. 50 osób. Można też ogłosić, że najbliższy event jest „eventem trailerowym”, co zwykle ściąga dodatkowych ludzi.
+**GP-17 nagrywamy w sobotę o 20:00 na Ognistym Portalu**, bo wtedy online jest najwięcej osób. Można ogłosić, że najbliższy Portal jest „nagrywany do trailera”, co zwykle ściąga dodatkowych ludzi. GP-18 nagrywamy przy każdym Deathmatchu.
 
 Ujęcia GP-02, GP-13 i GP-14 nagrywa jedna osoba na świeżym koncie (Przystań Orrena jest tylko dla postaci [Młody]).
 

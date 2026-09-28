@@ -50,6 +50,15 @@
 | **Świat odkrywców** | Iluzoryczne ściany, zagadki runiczne reagujące na czas i pogodę, lokacje „ukazujące się tylko wybranym”, przejścia dostępne tylko dla niziołków | ★★ |
 | **Eventy** | Cykliczne wydarzenia, otwierane przejścia do niedostępnych krain, arena | ★★ |
 
+## Stałe eventy (stan na 09.2026)
+
+| Event | Kiedy | Na czym polega (z forum) | Potencjał do filmu |
+|---|---|---|---|
+| **Ognisty Portal** | **co sobotę, 20:00** | Gdzieś w świecie otwiera się ognisty portal, czuć siarkę. Gracze szukają lokalizacji (ostatnio: siedlisko ophidianów), drużyny i gildie walczą o kontrolę nad portalem, a zwycięzcy wchodzą do środka i walczą ze strażnikami. Relacja fabularna „Ognisty portal – Pogrążeni w ogniu!” na forum | ★★★ Najlepsza okazja do nagrania dużego, prawdziwego wydarzenia: ogień, bitwa drużyn, potwory |
+| **Deathmatch** | **niedziela, poniedziałek, środa, 21:00** | Walki PvP z rankingiem. Trwa dyskusja o sezonach rankingu (propozycja administracji: 2 sezony w roku, gracze proponują kwartały) i nagrodach, np. koszulce lidera | ★★ Szybkie klipy PvP, rywalizacja, ranking |
+
+Docelowo event ma być codziennie. Rodzaje i dni kolejnych eventów ustala ekipa.
+
 ## Charakter serwera
 
 - Serwer ma nastawienie **fabularne (RPG)**: regulamin zezwala na „agresję fabularną”, zabrania odwoływania się w grze do Discorda czy forum i reguluje imiona postaci. Są Quest Masterka i pisane historie graczy.

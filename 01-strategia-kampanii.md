@@ -58,7 +58,13 @@ Na co dzień online jest kilkanaście osób, podczas eventów ok. 50. Jeśli tra
 - Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc od razu mają towarzyszy i świat wydaje się pełniejszy.
 - **Docelowo event codziennie.** To najmocniejszy argument dla nowego gracza („zawsze coś się dzieje”), ale **komunikujemy go dopiero wtedy, gdy grafik naprawdę działa** (co najmniej 2 tygodnie bez przerw). Do tego czasu podajemy tylko terminy, które na pewno się odbędą.
 
-Rodzaje eventów i ich rozkład na dni ustala ekipa. Do kampanii potrzebna jest tylko **stała godzina**, żeby nowy gracz wiedział, kiedy wejść.
+Rodzaje eventów i ich rozkład na dni ustala ekipa. Obecnie stałe są dwa:
+- **Ognisty Portal**: każda sobota, 20:00
+- **Deathmatch**: niedziela, poniedziałek, środa, 21:00
+
+Te terminy wpisujemy do trailera, opisów i bio. Kolejne dopisujemy, gdy ekipa je ogłosi.
+
+**Uwaga dla nowych graczy:** oba eventy są nastawione na walkę (PvP, bitwa o portal), a nowy gracz ze statusem [Młody] siedzi na Przystani Orrena bez PvP. Trzeba jasno powiedzieć, co nowy może na evencie zrobić: obejrzeć z bezpiecznego miejsca, dołączyć do drużyny jako wsparcie albo dopiero później. Inaczej zaproszenie „wpadnij w sobotę na Portal” będzie pustą obietnicą. Docelowo przydałby się też event dla nowych (np. „Nowa Krew”, patrz harmonogram).
 
 **Każdy event to materiał do kampanii:** nagrywamy go (OBS, 5 minut pracy), a następnego dnia wrzucamy klip 15–30 s („Wczoraj w Eldorii…”). Codzienne eventy dają więc codzienne treści na TikToka i Reels bez wymyślania czegokolwiek od zera.
 

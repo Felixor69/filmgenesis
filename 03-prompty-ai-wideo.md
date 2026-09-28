@@ -163,6 +163,16 @@ Napis **GENESIS** dokładamy w montażu. **Nie generujemy tekstu przez AI**, bo 
 
 ## 4. Prompty do serii klipów
 
+### AI-12 · Ognisty Portal (klipy o evencie, teaser sobotnich eventów)
+```
+A swirling portal of living fire stands in the middle of a dark rocky wasteland near a serpent-men
+lair, sulfur smoke rising, embers raining. Two rival bands of adventurers clash in front of it, shields
+raised, arrows and spells flying, silhouetted against the blazing portal. Wide shot, slow push-in toward
+the portal. [STYLE, fire orange and deep black palette]
+Audio: roaring portal flames, clashing steel, distant battle cries, no music.
+```
+**Match cut z nagraniem sobotniego eventu:** portal w tym samym miejscu kadru co w grze. Najpierw zrób screenshot portalu z gry i daj go jako referencję wyglądu.
+
 ### „Bogowie Eldorii”: relikty (po jednym ujęciu na bóstwo)
 Wspólny początek: `Extreme close-up of a sacred relic hanging at a belt in darkness, it begins to glow as golden souls flow into it, [RELIC], slow push-in. [STYLE]`
 

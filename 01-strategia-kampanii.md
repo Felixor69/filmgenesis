@@ -56,7 +56,23 @@ Na co dzień online jest kilkanaście osób, podczas eventów ok. 50. Jeśli tra
 - **Zmienić hasło na stronie głównej** („Dołącz do setek graczy”) na coś zgodnego z rzeczywistością.
 - **Kierujemy nowych na eventy.** Każdy materiał kończy się informacją, kiedy jest najbliższy event („Wieczór w Eldorii: w piątek o 20:00”). Nowy gracz, który pierwszy raz wejdzie w wieczór z 50 osobami, zostanie. Ten, który wejdzie w pustą środę rano, raczej nie.
 - Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc od razu mają towarzyszy i świat wydaje się pełniejszy.
-- **Stały rytm eventów** (np. co piątek i sobotę wieczorem) warto ustalić przed kampanią, bo daje nowym jasną odpowiedź, kiedy się logować.
+- **Docelowo event codziennie.** To najmocniejszy argument dla nowego gracza („zawsze coś się dzieje”), ale **komunikujemy go dopiero wtedy, gdy grafik naprawdę działa** (co najmniej 2 tygodnie bez przerw). Do tego czasu podajemy tylko terminy, które na pewno się odbędą.
+
+### Tydzień eventów (propozycja)
+
+Stała godzina (np. **20:00**) i stały temat na każdy dzień. Gracz wie, kiedy wejść, a każdy dzień pokazuje inny system Genesis, więc przy okazji uczy nowych gry.
+
+| Dzień | Event | System Genesis |
+|---|---|---|
+| Poniedziałek | **Arena**: turniej PvP (też drużynowy) | PvP, status PvP |
+| Wtorek | **Łowy na Upiornych Jeźdźców**: wyprawa na bagna północy | PvE, Oswajanie (Widmak) |
+| Środa | **Targ i aukcja w Dalamarze**: handel, licytacje, konkurs rzemieślników | Rzemiosło, ekonomia |
+| Czwartek | **Wyprawa odkrywców**: zagadki runiczne, ukryte przejścia, mapy skarbów | Eksploracja, System Run |
+| Piątek | **Wieczór fabularny** z Quest Masterką | Fabularyzacja, System Wiary |
+| Sobota | **Wielki event**: inwazja, Champion, polowanie na Alfy | PvE, Championy, Alfa |
+| Niedziela | **„Nowa Krew”**: wspólne wyjście nowych graczy z Przystani Orrena z przewodnikami | Start nowego gracza |
+
+**Każdy event to materiał do kampanii:** nagrywamy go (OBS, 5 minut pracy), a następnego dnia wrzucamy klip 15–30 s („Wczoraj w Eldorii…”). Codzienne eventy dają więc codzienne treści na TikToka i Reels bez wymyślania czegokolwiek od zera.
 
 ## 4. Kanały
 

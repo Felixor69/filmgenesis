@@ -71,7 +71,7 @@ Montaż w rytm bębnów. Każde uderzenie to jedna rasa.
 | Czas | Obraz | Tekst |
 |---|---|---|
 | 1:12–1:16 | **AI-11** Czerń. Dusze zlatują się i układają w napis **GENESIS** (logo dokładane w montażu) | Lektor: *„...i który zapamięta ciebie.”* |
-| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena · Eventy: [DNI I GODZINA]* |
+| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena · Eventy codziennie o [GODZINA]* (tę linijkę wstawiamy dopiero, gdy grafik codziennych eventów działa; wcześniej: „Eventy: [DNI I GODZINA]”) |
 
 ---
 

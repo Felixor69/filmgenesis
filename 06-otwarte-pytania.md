@@ -13,7 +13,7 @@
 
 ## Jeszcze do ustalenia
 
-1. **Terminy eventów.** Kiedy są (albo mogą być) stałe eventy, np. piątek i sobota o 20:00? Termin trafi na plansze końcowe i do opisów, żeby nowi gracze wchodzili wtedy, gdy jest najwięcej ludzi.
+1. **Codzienne eventy (ustalone jako cel).** O której godzinie i od kiedy ruszą na stałe? Czy tygodniowy plan tematów ze strategii (sekcja 3) pasuje ekipie? Kto poza Quest Masterką może je prowadzić, żeby nie spadło to na jedną osobę?
 2. **Data startu kampanii.** Kiedy premiera teasera? Proponowany plan to 4 tygodnie produkcji, potem 6 tygodni kampanii.
 3. **Sesja nagraniowa.** Czy uda się zebrać 5–10 osób z postaciami różnych ras (szczególnie Pół-Anioł, Pół-Demon, Nieumarły)?
 4. **Kamera GM i serwer testowy.** Czy ekipa może nagrywać niewidzialną postacią i ustawiać porę dnia na serwerze testowym?

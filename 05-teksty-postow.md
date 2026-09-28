@@ -7,7 +7,13 @@ Do uzupełnienia po publikacji: `[LINK_YT]` (trailer).
 
 **Zasada uczciwości:** nigdzie nie piszemy „setki graczy”. Piszemy o świecie, historii i bezpiecznym starcie.
 
-**Zasada eventów:** tam, gdzie się da, dopisujemy termin najbliższego eventu (`[EVENT: dzień, godzina]`). Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi.
+**Zasada eventów:** tam, gdzie się da, dopisujemy termin najbliższego eventu (`[EVENT: dzień, godzina]`). Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi. Gdy codzienne eventy ruszą na stałe, zamieniamy to na **„Event codziennie o [GODZINA]”**.
+
+**Seria „Wczoraj w Eldorii”** (codziennie, pion 15–30 s, z nagrania wczorajszego eventu):
+```
+Wczoraj w Eldorii: [NAZWA EVENTU] ⚔️ Dziś o [GODZINA] kolejny, wpadaj. Link w bio
+#mmorpg #ultimaonline #gry
+```
 
 ---
 

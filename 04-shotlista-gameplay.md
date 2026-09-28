@@ -1,14 +1,16 @@
 # Shotlista gameplayu (przebitki z gry)
 
+Numeracja odpowiada [02-scenariusz-trailera.md](02-scenariusz-trailera.md).
+
 ## Ustawienia nagrywania
 
-- **OBS Studio**: nagrywanie w **60 fps**, rozdzielczość natywna monitora (min. 1920×1080), bitrate wysoki (CQP/CRF ok. 16–18) albo format bezstratny do montażu. Zawsze nagrywamy **bez dźwięku systemowego z Discorda**.
-- **Okno gry jak największe** (pełny ekran / borderless). Jeśli klient (ClassicUO) na to pozwala: **zoom** gry do pokazania detali, wyłączone nazwy nad głowami i paski życia tam, gdzie nie są potrzebne.
-- **Czysty ekran:** zamknięte gumpy, paperdoll, backpack, journal, czat (chyba że ujęcie pokazuje interfejs celowo, np. crafting).
-- **Konto GM/obserwatora** (jeśli staff może): niewidzialna postać-kamera, która chodzi obok akcji i nie zasłania ujęć. Najczystszy sposób na „kamerę” w izometrycznej grze.
-- **Pora dnia / światło:** część ujęć w dzień, część w nocy z pochodniami i efektami (lepiej łączą się z ciemnym stylem AI).
-- Każde ujęcie nagrywamy **dłużej, niż trzeba (10–20 s)** i **kilka razy**.
-- **Zgoda graczy:** przed eventem ogłoszenie „nagrywamy trailer, nicki mogą być widoczne”. Kto nie chce, niech przyjdzie inną postacią lub ukryje nick.
+- **OBS Studio:** 60 fps, natywna rozdzielczość (min. 1920×1080), wysoka jakość (CQP/CRF 16–18). Bez dźwięku z Discorda.
+- **Klient ClassicUO:** okno jak największe (borderless), **zoom** do zbliżeń na modele ras i potworów, zamknięte gumpy, paperdoll i journal. Nazwy nad głowami i paski życia wyłączone, chyba że ujęcie ich potrzebuje.
+- **Konto GM/obserwatora** (jeśli ekipa może): niewidzialna postać-kamera, która nie zasłania akcji.
+- **Noc:** system dnia i nocy jest twardo ograniczony, a scenariusz tego potrzebuje (krąg światła reliktu). Nagrywamy nocne ujęcia w prawdziwej nocy w grze albo na serwerze testowym (launcher ma opcję uruchomienia serwera testowego) z ustawioną porą.
+- **Serwer testowy** przyda się też do ujęć, które trudno trafić na żywo (Alfa, Upiorny Jeździec, konkretne rasy). **To musi być prawdziwa zawartość gry, bez efektów, których gracz nie zobaczy.**
+- Każde ujęcie nagrywamy **dłużej (10–20 s) i kilka razy**.
+- **Zgoda graczy:** ogłoszenie „nagrywamy trailer, nicki mogą być widoczne”.
 
 ## Lista ujęć
 
@@ -16,34 +18,34 @@ Priorytet: ★★★ niezbędne, ★★ ważne, ★ jeśli się uda.
 
 | ID | Priorytet | Co | Jak nagrać | Pod match cut z |
 |---|---|---|---|---|
-| **GP-01** | ★★★ | Świeżo utworzona postać w strefie startowej, stoi, potem rusza w świat | Postać w prostym ubraniu, bez broni, w centrum kadru. Najpierw 2 s stoi, potem idzie w górę-prawo ekranu. Może być plaża/brzeg, jeśli taki jest w pobliżu startu | AI-03 |
-| **GP-02** | ★★★ | Kucie przy kowadle i piecu | Postać przy kowadle, efekt kucia, na końcu gotowa broń w plecaku / na paperdollu. Wersja z gumpem craftingu **i** bez | AI-04 |
-| **GP-03** | ★★★ | Rzucanie czaru z efektem | Najbardziej widowiskowe efekty (błyskawica, kula ognia, efekty custom Genesis). Postać w centrum, cel po prawej | AI-05 |
-| **GP-04** | ★★ | Łucznictwo | Strzał do potwora lub zwierzęcia, widoczny lot strzały | AI-06 |
-| **GP-05** | ★★ | Złodziej / skradanie | Hiding (postać „znika”) lub stealth przez miasto nocą | AI-07 |
-| **GP-06** | ★★ | Zawody: rybak, drwal, górnik, kupiec, tamer | 4–5 krótkich ujęć po 3 s, różne lokacje | — |
-| **GP-07** | ★★★ | Panorama **nowej mapy** | Najpiękniejsze, najbardziej „nie-klasyczne” miejsca nowej mapy: góry, rzeki, miasto. Kamera GM idzie płynnie w jedną stronę (imitacja lotu drona). Kilka lokacji | AI-08 |
-| **GP-08** | ★★★ | **Nowe animacje potworów** | Zbliżenie (zoom) na nowe potwory: atak, ryk, śmierć. Najlepiej 3–5 różnych potworów | AI-09 |
-| **GP-09** | ★★★ | Tłum w banku / na targu | **Event z graczami:** jak najwięcej postaci w jednym miejscu, handel, rozmowy | — |
-| **GP-10** | ★★ | Domy graczy, osady | Przejście przez ulicę z domami graczy, wnętrze ładnie urządzonego domu | — |
-| **GP-11** | ★★ | Gildia na zbiórce | 10+ graczy w strojach gildii (kolor), ustawieni w szyku, z wierzchowcami | — |
-| **GP-12** | ★★★ | **Masowa bitwa PvP** | **Event:** dwie strony po 10–30 osób, szarża na siebie, dużo czarów. Kamera GM z boku. Ustawiona bitwa, bez stawki, powtórzona 2–3 razy | AI-10 |
-| **GP-13** | ★★★ | Walka grupy z bossem | Drużyna 5–8 osób vs najbardziej efektowny boss/nowy potwór | AI-11 |
-| **GP-14** | ★★★ | Drużyna „pozuje” | 4–5 postaci w pełnym ekwipunku w rzędzie, na znak: ukłon / emotki / okrzyk na czacie „Dołącz do nas!” (czat może zostać widoczny) | AI-12 |
-| GP-15 | ★ | Nocne miasto z pochodniami, deszcz/burza (jeśli jest pogoda) | Klimat do przejść | — |
-| GP-16 | ★ | Mentor pomaga nowemu graczowi | Autentyczna sytuacja: ktoś daje nowemu ekwipunek i prowadzi go do miasta | klip „Nie jesteś sam” |
-| GP-17 | ★★ | Nagranie ekranu: strona → pobranie → instalacja → logowanie | Do klipu „Jak zacząć w 5 minut”. Czysty pulpit, bez prywatnych rzeczy | — |
+| **GP-01** | ★★★ | **Relikt w nocy**: krąg światła wokół postaci w czarnym terenie | Postać w centrum, noc, las albo teren otwarty. Najlepiej moment, gdy relikt jest aktywowany (ciemno → światło). Druga wersja: ta sama scena bez reliktu (do klipu „Bez światła jesteś ślepy”) | AI-01, AI-02 |
+| **GP-02** | ★★★ | **Przystań Orrena**: nowe postacie na pomoście i w mieście, manekiny, nauczyciel | Dwie świeże postacie (wojownik i mag) idą pomostem w głąb wyspy, potem trening na manekinie | AI-03 |
+| **GP-03** | ★★★ | Model **Pół-Anioła** (i Upadłego Pół-Anioła, jeśli jest) | Zbliżenie z zoomem, animacja chodu i walki, postać zwrócona w tę samą stronę co w AI-04 | AI-04 |
+| **GP-04** | ★★★ | **Pół-Demon przyzywa płonącego mustanga** (`.poldemon 1`) | Zbliżenie na moment przyzwania, potem Pół-Demon wsiada i odjeżdża | AI-05 |
+| **GP-05** | ★★★ | **Nieumarły przyzywa sługę** (`.nieumarly 1`) | Najlepiej w krypcie lub lochu | AI-06 |
+| **GP-06** | ★★★ | Pozostałe rasy: Mroczny Elf, Krasnolud, Jaszczuroczłowiek, Niziołek (przejście przez wąską szczelinę!), Pół-Ork (szał `.polork 1`), Elf, Człowiek, Pół-Elf | Po 3–5 s na rasę, zbliżenie, każda w „swoim” otoczeniu | seria „Rasy Eldorii” |
+| **GP-07** | ★★★ | **Świątynia i ołtarz**: składanie dusz, relikt świeci mocniej | Jeśli się da, pokazać 2–3 różne świątynie | AI-07 |
+| **GP-08** | ★★★ | **Upiorny Jeździec** wyłania się z ukrycia i atakuje drużynę; oswojenie **Widmaka** | Nocą, na bagnach północy. Drużyna 3–5 osób, kamera GM z boku | AI-08 |
+| **GP-09** | ★★ | Komunikat systemowy „Czujesz, że coś potężnego zbliża się do tej okolicy...” | Nagranie ekranu z komunikatem albo sam tekst w czcionce gry | teaser |
+| **GP-10** | ★★★ | Stworzenie **[Alfa]** (wilk, golem albo inne) w walce | Zbliżenie z widocznym tytułem [Alfa] nad głową | AI-09 |
+| **GP-11** | ★★ | Sekwencja „świat”: kucie w kuźni, osadzanie runy w broni, drużyna w lochu oświetlonym tylko reliktami, przejście przez iluzoryczną ścianę | Po 1–2 s każde | — |
+| **GP-12** | ★★★ | **Drużyna pozuje**: 4–6 postaci różnych ras w pełnym ekwipunku na klifie lub wzgórzu, na znak ukłon albo emotki | Ustawienie jak w AI-10 (wojownik na środku, mag obok) | AI-10 |
+| GP-13 | ★★ | **Kreator postaci** w kliencie | Nagranie ekranu od wyboru wyglądu do wejścia na Przystań | klip „Pierwszy dzień” |
+| GP-14 | ★★ | **Instalacja** od strony do logowania, **łącznie z ostrzeżeniem Windows** | Czysty pulpit, bez prywatnych rzeczy | klip „Jak zacząć w 5 minut” |
+| GP-15 | ★ | Dalamar: miasto, Dom Aukcyjny, event fabularny z Quest Masterką | Jeśli akurat jest event, nagrać go | „Kroniki Eldorii” |
+| GP-16 | ★ | Panoramy Eldorii: najładniejsze miejsca nowej mapy | Kamera GM idzie płynnie w jednym kierunku | tło planszy końcowej |
 
-## Plan eventu nagraniowego (ok. 2 godziny)
+## Plan sesji nagraniowej (ok. 2 godziny, 5–10 osób)
 
-Ogłosić tydzień wcześniej: **„Nagrywamy trailer Genesis, wystąp w nim!”**. Samo to jest już treścią promocyjną.
+Nie potrzebujemy tłumu, tylko **dobrze dobranej drużyny różnych ras**. Ogłoszenie tydzień wcześniej: **„Nagrywamy trailer Genesis, szukamy postaci każdej rasy!”** Samo ogłoszenie jest już treścią promocyjną.
 
-1. **0:00–0:15**: zbiórka w mieście (GP-09 tłum, GP-11 gildie). Odprawa na Discordzie, kto gdzie stoi.
-2. **0:15–0:45**: bitwa PvP, 3 powtórki (GP-12).
-3. **0:45–1:15**: boss, 2 próby, różne kąty (GP-13).
-4. **1:15–1:30**: drużyna pozuje na tle krajobrazu (GP-14).
-5. **1:30–2:00**: wolne ujęcia: domy, zawody, nocne miasto (GP-06, GP-10, GP-15).
+1. **0:00–0:20:** zbiórka, sprawdzenie, kto jaką rasę reprezentuje. Zbliżenia ras (GP-03…GP-06).
+2. **0:20–0:40:** świątynie i relikty (GP-07), noc i relikt (GP-01).
+3. **0:40–1:10:** wyprawa na Upiornych Jeźdźców (GP-08), 2–3 podejścia.
+4. **1:10–1:30:** loch oświetlony reliktami, runy, kuźnia (GP-11).
+5. **1:30–1:45:** drużyna pozuje (GP-12).
+6. **1:45–2:00:** ujęcia zapasowe, panoramy (GP-16).
 
-Pozostałe ujęcia (GP-01…GP-08, GP-17) nagrywa 1–2 osoby w dowolnym momencie.
+Ujęcia GP-02, GP-13 i GP-14 nagrywa jedna osoba na świeżym koncie (Przystań Orrena jest tylko dla postaci [Młody]).
 
-**Nagroda dla uczestników** (jeśli zasady serwera pozwalają): kosmetyczny tytuł/przedmiot „Legenda Trailera” plus nick w podziękowaniach pod filmem.
+**Podziękowania:** nicki uczestników w opisie filmu i na planszy końcowej. Regulamin zabrania administracji dawania materialnej pomocy, więc ewentualne nagrody w grze tylko za zgodą i decyzją administracji.

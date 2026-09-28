@@ -1,97 +1,113 @@
 # Strategia kampanii — Genesis
 
+Fakty, na których się opieram, są w [00-fakty-o-serwerze.md](00-fakty-o-serwerze.md).
+
 ## 1. Kogo chcemy przyciągnąć
 
-Priorytet to **nowi gracze**. Mają inne obawy niż weterani, więc przekaz musi na nie odpowiadać.
+Priorytet to **nowi gracze**. Serwer, wiki i społeczność są po polsku, więc **kampania jest polskojęzyczna**. Wersja EN to ewentualny dodatek (patrz [06-otwarte-pytania.md](06-otwarte-pytania.md)).
 
 | Segment | Kto to | Co go blokuje | Co go przekona |
 |---|---|---|---|
-| **A. Nowicjusze MMO/RPG (priorytet)** | 18–35 lat, gra w Valheim, RuneScape/OSRS, Albion, Tibię, Mount&Blade, gry survival/sandbox | „Stara grafika”, „nie wiem, od czego zacząć”, „pewnie trudna instalacja”, „nikogo nie znam” | Wolność sandboksa, żywy świat tworzony przez graczy, polska społeczność pomagająca nowym, darmowy dostęp, prosta instalacja |
-| **B. „Słyszałem o UO”** | Znają legendę UO (filmy, memy, historie o PK), nigdy nie grali | Nie wiedzą, czy to jeszcze żyje | „Legenda żyje, po polsku, z nowymi systemami” |
-| **C. Weterani UO (drugorzędni)** | 30–45 lat, grali na polskich shardach w latach 2000–2015 | Brak czasu, zawód poprzednimi shardami | Nostalgia i „jaką pamiętasz... ale lepsza”, nowa mapa |
+| **A. Nowi gracze RPG/MMO (priorytet)** | 16–35 lat, grają w Margonem, Tibię, Metin2, OSRS, Albion, Valheim, BG3 lub w gry fabularne | „Stara grafika”, „UO jest brutalne, zabiją mnie w 5 minut”, „instalka wygląda jak wirus”, „nikogo nie znam” | 11 ras z własnym wyglądem, bogowie i relikt, **bezpieczny start na Przystani Orrena i ochrona [Młody]**, historia postaci, kameralna społeczność |
+| **B. Fani RPG i fabularyzacji** | Ludzie z forów RPG, sesji online, Discordów fabularnych | Nie wiedzą, że MMO może mieć fabularny klimat | Quest Masterka, historie graczy (aukcja w Dalamarze), rasy klimatyczne uzgadniane z GM |
+| **C. Weterani UO (drugorzędni)** | 30–45 lat, grali na polskich shardach | Brak czasu, zawód poprzednimi serwerami | „Ultima Online, jaką pamiętasz... ale lepsza”, mapa, jakiej Ultima nie widziała |
 
-**Wniosek:** trailer nie może opierać się na nostalgii. Nowy gracz nie zna Britanii i nic nie poczuje na widok Moongate. Sprzedajemy **doświadczenie**: wolność, konsekwencje, historie, ludzi.
+**Wniosek:** nie sprzedajemy nostalgii. Sprzedajemy **tożsamość i historię postaci**: rasę, boga, relikt, wybory, które świat zapamięta. Segment B jest niedoceniany, a Genesis ma dla niego wyjątkowo dużo.
 
 ## 2. Główny przekaz
 
-**Oś kampanii: „Twoja legenda zaczyna się od zera.”**
+**Oś kampanii: „Świat, który zapamięta ciebie.”**
 
-W Genesis nie ma klas narzuconych przez scenariusz ani liniowych questów. Jesteś kim chcesz: kowalem, magiem, łowcą, kupcem, złodziejem, bohaterem albo postrachem traktów. Świat pamięta, co zrobiłeś.
+Opiera się na zdaniu z wiki: *„Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody. Obiecamy ci tylko świat, który pamięta. I który, jeśli będziesz gotów, zapamięta ciebie.”*
 
-Filary komunikacji (każdy dostaje osobne klipy):
+**Motyw wizualny: światło w ciemności.** Noce w Eldorii są naprawdę czarne, a jedynym światłem jest relikt twojego boga, który świeci mocniej z każdą zebraną duszą. Hasło strony „bogowie patrzą, a dusze świecą w ciemności” staje się w trailerze obrazem.
 
-1. **Wolność.** Żadnych klas na sztywno, rozwijasz to, czego używasz.
-2. **Żywy świat graczy.** Gospodarka, domy, gildie i wojny tworzą ludzie, nie NPC.
-3. **Nowy świat.** Nowa mapa, nowe animacje potworów, nowe stroje, bogowie i runy.
-4. **Rzemiosło i PvP.** Autorskie systemy, gdzie to, co wykujesz, naprawdę się liczy.
-5. **Polska społeczność.** Nie jesteś sam, ktoś ci pomoże na starcie.
-6. **Łatwy start.** Darmowe, instalacja w kilka minut, poradnik na stronie.
+**Filary komunikacji (każdy dostaje osobne klipy):**
 
-**Hasła do wykorzystania:**
-- „Ultima Online, jaką pamiętasz... ale lepsza.” (hasło strony, dla weteranów)
-- „Bogowie patrzą. Dusze świecą w ciemności.” (klimat, otwarcie trailera)
-- „Twoja postać. Twoja historia. Nasz świat.” (dla nowych)
-- „Każda legenda zaczyna się od zera.” (główne CTA kampanii)
-- „Powrót do korzeni z nową duszą.” (dla weteranów)
+1. **Kim będziesz?** 11 ras z własnymi modelami i animacjami: Pół-Anioł, który może upaść, Pół-Demon z płonącym mustangiem, Nieumarły przyzywający sługi, Mroczny Elf, Jaszczuroczłowiek…
+2. **Komu oddasz duszę?** 8 bóstw, relikt, dusze rozświetlające noc.
+3. **Nowy, nieodkryty świat.** Eldoria stworzona od zera: iluzoryczne ściany, runiczne zagadki, Upiorni Jeźdźcy, stworzenia Alfa.
+4. **Rzemiosło, które ma znaczenie.** Gospodarka graczy, runy A–H, artefakty.
+5. **Bezpieczny start.** Przystań Orrena bez PvP, 168 h ochrony, gotowe ścieżki rozwoju, pomoc na Discordzie.
+6. **Historia, którą piszesz.** Eventy, Quest Masterka, relacje z wydarzeń; tu gracze zostają opowieściami.
 
-## 3. Problem grafiki: jak go rozegrać uczciwie
+**Hasła:**
+- „Świat, który zapamięta ciebie.” (główne)
+- „Bogowie patrzą. Dusze świecą w ciemności.” (otwarcie, teaser)
+- „Bez światła jesteś ślepy. Z Reliktem jesteś łowcą.” (klip o wierze)
+- „Kim będziesz w Eldorii?” (klip o rasach)
+- „Czujesz, że coś potężnego zbliża się do tej okolicy...” (teaser, bo to autentyczny komunikat z gry)
+- „Ultima Online, jaką pamiętasz... ale lepsza.” (dla weteranów)
 
-Nowy gracz zobaczy izometryczną grafikę sprzed lat. Jeśli trailer pokaże tylko AI, poczuje się oszukany, zostawi negatywny komentarz („clickbait”) i nie wróci.
+## 3. Dwa problemy, które rozgrywamy uczciwie
 
-**Rozwiązanie: AI jest oficjalnie „wyobraźnią”, gameplay jest „rzeczywistością”, i mówimy to wprost.**
-- Motyw przewodni: *„Tak wygląda twoja przygoda w głowie... a tak w grze.”* Po każdym ujęciu AI następuje ujęcie z gry pokazujące **to samo zdarzenie**.
-- Tekst w trailerze typu „Grafika z gry, bez upiększeń” przy przebitkach buduje zaufanie.
-- Retro grafikę sprzedajemy jako atut: czytelna, lekka (działa na każdym laptopie), z klimatem pixel-artu, jak w Stardew czy OSRS.
+### Grafika
+Nowy gracz zobaczy izometryczną grafikę. Jeśli trailer pokaże tylko AI, poczuje się oszukany.
+- **Każde ujęcie AI ma swoją parę w gameplayu** (match cut), a przebitki z gry są podpisane „Grafika z gry”.
+- AI pokazuje, **jak to się czuje**, gra pokazuje, **jak to wygląda**. Po premierze widzowie docenią tę szczerość.
+- Genesis ma tu atut: **własne modele ras, nowe animacje potworów i ręcznie robioną mapę**. To pokazujemy w zbliżeniach.
+
+### Populacja
+Licznik na stronie pokazywał 11 osób online. Jeśli trailer obieca „setki graczy” i masowe bitwy, nowy gracz wejdzie, zobaczy pusty świat i odejdzie.
+- **Nie pokazujemy tłumów, których nie ma.** Pokazujemy drużyny 3–8 osób, gildię, event z Quest Masterką, aukcję w Dalamarze.
+- Kameralność to atut: **„Tu nie jesteś numerem. Tu cię zapamiętają.”** Pasuje do głównego hasła.
+- **Zmienić hasło na stronie głównej** („Dołącz do setek graczy”) na coś zgodnego z rzeczywistością.
+- Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc od razu mają towarzyszy i świat wydaje się pełniejszy.
 
 ## 4. Kanały
 
 | Kanał | Format | Segment | Uwagi |
 |---|---|---|---|
-| **YouTube** | Trailer 75 s, poradnik „Jak zacząć w 5 min”, vlogi z eventów | A, B, C | Kanał główny, wszystkie linki prowadzą do trailera |
-| **TikTok / Reels / Shorts** | Pion 15–30 s, 3–4 klipy tygodniowo | A | Najważniejszy kanał dla nowych. Hook w 1 s, napisy zawsze |
-| **Discordy gier pokrewnych** | Post + trailer (za zgodą adminów) | A | Serwery PL: RPG, Tibia, Metin2, Margonem, OSRS PL, retro gaming |
-| **Reddit** | r/ultimaonline, r/MMORPG, r/Polska_wpz, r/gamingpolska | B, C | Styl „zrobiliśmy to”, nie reklama; odpowiadać na komentarze |
-| **Wykop** | Tag #gry, #mmorpg, #ultimaonline, #gimbynieznajo | B, C | Nostalgia działa, AI-otwarcie przyciąga |
-| **Facebook** | Grupy „Ultima Online PL”, retro gaming, gry fantasy | C | Weterani tam są; trailer + „zabierz kumpla” |
-| **Twórcy (streamerzy/YT PL)** | Zaproszenie na event, darmowy „pakiet startowy” (jeśli regulamin pozwala) | A, B | 3–5 mniejszych twórców (1–20 tys. subów) daje lepszy ROI niż 1 duży |
-| **Listy serwerów** | uoservers.com, uoaddicts.com, nostalgic.gg, top listy | C | Trailer + dobry opis + głosowanie graczy |
+| **YouTube** (do założenia, jeśli nie ma) | Trailer, „Jak zacząć w 5 minut”, klipy o rasach i bogach | A, B, C | Podpiąć pod pusty link „WIDEO” w menu strony |
+| **TikTok / Reels / Shorts** | Pion 15–30 s, 3–4 klipy tygodniowo | A | Najważniejszy kanał dla nowych. Hook w 1 s, zawsze napisy. Seria „Rasy Eldorii” (11 odcinków) i „Bogowie Eldorii” (8 odcinków) zapewnia treści na ponad miesiąc |
+| **Discordy pokrewnych gier (PL)** | Post + trailer (za zgodą adminów) | A, B | Margonem, Tibia PL, Metin2 PL, serwery fabularne i RPG, retro gaming |
+| **Fora i grupy RPG** | Opis świata, bogów, ras, zaproszenie do fabularyzacji | B | Polter, grupy FB z sesjami RPG online, Discordy RPG |
+| **Reddit** | r/Polska_wpz, r/gamingpolska, r/ultimaonline (EN) | A, C | Styl „zrobiliśmy to sami”, nie reklama |
+| **Wykop** | #gry #mmorpg #ultimaonline | C | Nostalgia + „mapa, jakiej Ultima nie widziała” |
+| **Facebook** (profil do założenia) | Grupy „Ultima Online PL”, retro gaming | C | Podpiąć pod ikonę w stopce strony |
+| **Twórcy YT/Twitch PL** | Zaproszenie na event „Nowa Krew” | A, B | 3–5 mniejszych twórców (1–20 tys.) działa lepiej niż jeden duży. **Uwaga:** regulamin zabrania materialnej pomocy od administracji, więc oferujemy mentora i przewodnika, nie przedmioty |
+| **Listy serwerów** | uoservers.com, uoaddicts.com, nostalgic.gg | C | Trailer + opis + głosowanie |
 
-## 5. Harmonogram (6 tygodni)
+## 5. Harmonogram (6 tygodni + przygotowanie)
 
 | Tydzień | Działania |
 |---|---|
-| **T-1 (przygotowanie)** | Nagranie gameplayu (event z graczami), generowanie ujęć AI, montaż, landing „Zacznij tutaj” na stronie, przypięty kanał #nowi-gracze na Discordzie |
-| **T1: teaser** | Teaser 15 s (samo AI + „Bogowie patrzą”), bez nazwy gry do 2. dnia, potem reveal. Posty „coś się budzi” |
-| **T2: premiera trailera** | Premiera trailera 75 s na YT (premiera z czatem), cross-post: Reddit, Wykop, FB, Discordy. Wersja 30 s na TikTok/Reels |
-| **T3: filary 1–2** | Klipy: „Bądź kim chcesz”, „Świat tworzą gracze”. Poradnik „Jak zacząć w 5 minut” |
-| **T4: filary 3–4** | Klipy: „Nowy świat, nowe potwory”, „Wykuj legendę (crafting)”, „PvP”. Zaproszenie twórców |
-| **T5: event dla nowych** | **Event „Nowa Krew”** w grze: tydzień dla nowych postaci (np. przewodnicy-gracze, wspólna wyprawa, nagrody kosmetyczne). Stream z eventu |
-| **T6: społeczność** | Klipy z historiami graczy („Moja pierwsza śmierć”, „Mój pierwszy dom”), podsumowanie, „dzięki, że jesteście” |
+| **T-2 i T-1 (przygotowanie)** | Poprawki z sekcji 6, założenie YT/TikTok/FB, nagranie gameplayu, generowanie ujęć AI, montaż |
+| **T1: teaser** | Teaser 15 s: „Czujesz, że coś potężnego zbliża się...”, czerń, relikt rozbłyska, logo i data premiery trailera |
+| **T2: premiera trailera** | Premiera na YT (z czatem na żywo), cross-post: Reddit, Wykop, FB, Discordy. Wersja 30 s na TikTok/Reels |
+| **T3: „Kim będziesz?”** | Seria o rasach (pion). Klip „Jak zacząć w 5 minut” |
+| **T4: „Komu oddasz duszę?”** | Seria o bogach i relikcie. Klip o Upiornych Jeźdźcach. Zaproszenia do twórców |
+| **T5: event „Nowa Krew”** | **Tydzień dla nowych postaci:** wspólny start na Przystani Orrena o ustalonej godzinie, przewodnicy z gildii, wieczorny event fabularny prowadzony przez Quest Masterkę, wspólne wyjście z wyspy do Eldorii. Stream |
+| **T6: historie** | Klipy „Moja pierwsza noc w Eldorii”, „Mój pierwszy relikt”, relacja z eventu w stylu „Złoto, chciwość i tajemnice domu aukcyjnego” |
 
-## 6. Ścieżka nowego gracza (musi działać, zanim wydamy pieniądze na reklamę)
+## 6. Ścieżka nowego gracza: co naprawić PRZED kampanią
 
-1. Widzi klip, klika link w bio lub opisie.
-2. Landing **„Zacznij tutaj”** zawiera trzy kroki: pobierz, zainstaluj, stwórz postać, plus 60-sekundowe wideo poradnik.
-3. Discord ma kanał **#nowi-gracze** z automatycznym powitaniem i listą „mentorów” (ochotnicy z gildii).
-4. Pierwsze 30 minut w grze: bezpieczny start, jasne wskazówki, **nikt nie zabija go w 5. minucie** (warto sprawdzić, jak wygląda strefa startowa).
-5. Po tygodniu: ankieta „co było trudne?”, poprawki.
+Najdroższy błąd kampanii to ściągnięcie ludzi, którzy odpadną na instalacji. Kolejność ważności:
 
-> Najdroższy błąd kampanii to ściągnięcie ludzi, którzy odpadają na instalacji lub w pierwszej godzinie. Kroki 2–4 są ważniejsze niż sam trailer.
+1. **Podpis cyfrowy instalatora i launchera (code signing).** Obecna instrukcja każe klikać „Pobierz niezweryfikowany plik”, „Uruchom mimo to” i dodawać wyjątek w antywirusie. Nowy gracz uzna to za wirusa. Certyfikat code-signing kosztuje od ok. 300–400 zł rocznie. Jeśli nie da się go kupić, trzeba **nagrać 60-sekundowy film instalacji** i wyjaśnić wprost: „Windows ostrzega, bo nie płacimy za certyfikat. To normalne dla projektów non-profit.”
+2. **Strona „Zacznij tutaj”** (jest już zalążek w sekcji „Jak zacząć grę”): 4 kroki, film instalacji, link do Discorda, akapit o Przystani Orrena i statusie [Młody] („pierwsze 168 godzin nikt cię nie zabije”).
+3. **Uzupełnić wiki „Stworzona postać... co dalej?”** (teraz jest tam [do uzupełnienia]).
+4. **Discord:** kanał powitalny dla nowych, rola „Mentor” (ochotnicy), przypięta wiadomość „Jak zacząć”.
+5. **Naprawić stronę:** link „WIDEO” (teraz prowadzi donikąd), ikony FB/IG (prowadzą na ogólne facebook.com/instagram.com), hasło „setek graczy”.
+6. **Po tygodniu od startu kampanii:** krótka ankieta dla nowych „co było trudne?” i poprawki.
 
 ## 7. Mierniki sukcesu (KPI)
 
-- Nowe konta w tygodniu (baza: średnia sprzed kampanii), cel **+[DO UZUPEŁNIENIA]%**
-- Retencja: ilu nowych gra po 7 i 30 dniach
-- Dołączenia na Discorda z linków kampanii (osobne zaproszenia per kanał, np. `/yt`, `/tiktok`, `/reddit`, żeby wiedzieć, co działa)
-- Wyświetlenia trailera, CTR linku w opisie
-- Peak online w weekend eventu „Nowa Krew”
+- **Nowe konta tygodniowo** (baza: średnia sprzed kampanii)
+- **Retencja:** ilu nowych gra po 7 i 30 dniach, ilu opuściło Przystań Orrena
+- **Szczyt online** w tygodniu eventu „Nowa Krew” w porównaniu z dotychczasowym
+- **Dołączenia na Discorda** z osobnych zaproszeń dla każdego kanału (YT, TikTok, Reddit, Wykop, FB), żeby wiedzieć, co działa
+- Wyświetlenia trailera, CTR linku w opisie, obserwujący na TikToku
+
+Konkretne cele liczbowe ustalimy, gdy ekipa poda dane bazowe (patrz [06-otwarte-pytania.md](06-otwarte-pytania.md)).
 
 ## 8. Budżet orientacyjny (wariant „prawie za darmo”)
 
 | Pozycja | Koszt |
 |---|---|
-| Generator wideo AI (1–2 miesiące subskrypcji: Veo / Kling / Runway) | ok. 100–400 zł |
-| Muzyka (licencja royalty-free, np. Artlist/Epidemic, albo wygenerowana z licencją) | 0–150 zł/mies. |
-| Lektor PL (opcjonalnie: fiverr/useme lub ktoś ze społeczności) | 0–500 zł |
-| Montaż | społeczność / DaVinci Resolve (darmowy) |
-| Promowane posty (opcjonalnie, dopiero gdy ścieżka nowego gracza działa) | od 300 zł |
+| Certyfikat code-signing (zalecany) | ok. 300–1000 zł/rok |
+| Generator obrazu i wideo AI (1–2 miesiące) | ok. 100–400 zł |
+| Muzyka z licencją | 0–150 zł/mies. |
+| Lektor (ktoś ze społeczności albo AI) | 0–500 zł |
+| Montaż | społeczność, DaVinci Resolve (darmowy) |
+| Promowane posty (dopiero gdy ścieżka nowego gracza działa) | od 300 zł |

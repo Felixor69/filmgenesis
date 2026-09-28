@@ -1,116 +1,122 @@
-# Scenariusz trailera — „Każda legenda zaczyna się od zera”
+# Scenariusz trailera — „Świat, który zapamięta ciebie”
 
-**Format główny:** 16:9, 1920×1080 (lub 4K), 24/25 fps, **75 s**
-**Język:** polski lektor + napisy PL; wersja EN z napisami EN (ta sama ścieżka obrazu)
+**Format główny:** 16:9, 1920×1080 (lub 4K), 24/25 fps, **80 s**
+**Język:** polski lektor + napisy PL
 **Oznaczenia:** `AI-xx` to ujęcie generowane (prompt w [03-prompty-ai-wideo.md](03-prompty-ai-wideo.md)), `GP-xx` to przebitka z gry (instrukcja w [04-shotlista-gameplay.md](04-shotlista-gameplay.md))
 
 ## Idea
 
-Film to historia **jednej nowej postaci**, od nikogo do legendy. Każdy etap pokazujemy dwa razy: najpierw tak, jak gracz to **czuje** (AI, kinowo), potem tak, jak to **wygląda w grze** (gameplay). Przejście robimy **match cutem**: ta sama kompozycja, ten sam ruch, ta sama akcja. Nowy widz od razu wie, jak wygląda gra, więc nikt nie czuje się oszukany, a AI dodaje emocję, której izometryczna grafika sama nie da.
+Oś filmu to **światło w ciemności**, czyli dosłowne przełożenie hasła Genesis „bogowie patrzą, a dusze świecą w ciemności”. W Eldorii noc jest naprawdę czarna, a jedynym światłem jest **Relikt Wiary**, który rozbłyska wraz z każdą zebraną duszą.
 
-**Muzyka:** epicki orkiestrowy folk-fantasy, 3 akty. Cicho (smyczki, chór szeptany) → rytm (bębny od 0:14) → kulminacja (pełna orkiestra od 0:48) → cisza i jeden akord na końcówkę. Tempo ok. 90–100 BPM, cięcia na mocne akcenty.
+Film prowadzi widza drogą nowego gracza: **Przystań Orrena → wybór rasy → wybór boga → wyprawa w nieznaną Eldorię → legenda**. Każdy etap pokazujemy dwa razy: najpierw tak, jak gracz go **czuje** (AI, kinowo), potem tak, jak **wygląda w grze** (gameplay). Przejście robimy **match cutem**: ta sama kompozycja, kierunek i akcja.
+
+**Skala:** pokazujemy drużyny i gildię, nie tłumy. Nie obiecujemy populacji, której nowy gracz nie zastanie (patrz strategia, sekcja 3).
+
+**Muzyka:** mroczna orkiestra fantasy, 90–100 BPM. Cisza i niski dron (0:00) → delikatna melodia, gdy wschodzi słońce nad Przystanią (0:12) → bębny od sekwencji ras (0:22) → groza przy Upiornych Jeźdźcach (0:48) → kulminacja (0:58) → cisza i jeden akord na logo.
 
 ---
 
-## Akt I — Przebudzenie (0:00–0:14)
+## Akt I — Ciemność (0:00–0:12)
 
-| Czas | Obraz | Lektor / tekst na ekranie | Dźwięk |
+| Czas | Obraz | Lektor / tekst | Dźwięk |
 |---|---|---|---|
-| 0:00–0:04 | **AI-01** Ciemność. Na kamiennym monolicie jedna po drugiej rozpalają się złote runy. Kamera powoli najeżdża. | Lektor (szept, niski głos): *„Bogowie patrzą...”* | Niski dron, pojedynczy dzwon |
-| 0:04–0:08 | **AI-02** W czarnym lesie unoszą się setki świecących dusz jak świetliki, formują się w ludzką sylwetkę. | *„...a dusze świecą w ciemności.”* | Chór szeptany narasta |
-| 0:08–0:11 | **AI-03** Młoda postać w prostym lnianym ubraniu budzi się na piasku przy brzegu, podnosi się, patrzy przed siebie. Nic nie ma. | *„Każda legenda...”* | Cisza, fale |
-| 0:11–0:14 | **MATCH CUT → GP-01** Nowa postać w grze w strefie startowej, ten sam kierunek patrzenia i ruch. W rogu mały napis: `Grafika z gry` | *„...zaczyna się od zera.”* | Pierwsze uderzenie bębna |
+| 0:00–0:04 | **AI-01** Absolutna czerń. W ciemności pojawia się jedna świecąca dusza, potem druga, dziesiątki. Płyną w stronę dłoni trzymającej relikt (półksiężyc na łańcuszku). | Lektor (szept): *„Bogowie patrzą...”* | Niski dron, oddech |
+| 0:04–0:08 | **AI-02** Relikt rozbłyska. Krąg ciepłego światła odsłania las wokół postaci, a na granicy światła widać mgłę i zarys czegoś, co patrzy. | *„...a dusze świecą w ciemności.”* | Pojedynczy dzwon |
+| 0:08–0:12 | **MATCH CUT → GP-01** Noc w grze: postać z aktywnym reliktem, wyraźny krąg światła w czarnym terenie. W rogu mały napis: `Grafika z gry` | Tekst: **W ELDORII NOC JEST PRAWDZIWA** | Cisza |
 
-## Akt II — Bądź kim chcesz (0:14–0:34)
+## Akt II — Przystań (0:12–0:22)
 
-Szybki montaż par AI → GP, każda para ok. 4 s (2 s + 2 s). Na każde uderzenie bębna jedno słowo na ekranie.
+| Czas | Obraz | Lektor / tekst |
+|---|---|---|
+| 0:12–0:17 | **AI-03** Świt nad morzem. Łódź dobija do drewnianego pomostu wyspy. Schodzi z niej dwoje młodych bohaterów: wojownik z nową, lśniącą tarczą i nieśmiały mag z kryształem w dłoni (nawiązanie do opowiadania „Dwoje z Przystani Orrena” z wiki). Mewy, sól, spokojne światła miasta. | Lektor: *„Każda opowieść zaczyna się w Przystani Orrena.”* |
+| 0:17–0:22 | **→ GP-02** Nowe postacie w grze na pomoście i w mieście Przystani Orrena. Szybkie ujęcie: trening na manekinie, rozmowa z nauczycielem. | Tekst: **BEZPIECZNY START · BEZ PvP · 168 H OCHRONY** |
 
-| Czas | Obraz | Tekst na ekranie | Lektor |
-|---|---|---|---|
-| 0:14–0:18 | **AI-04** Kowal uderza młotem w rozżarzone ostrze, iskry. **→ GP-02** Kucie w kuźni w grze. | **KOWAL** | *„Nikt nie powie ci, kim masz być.”* |
-| 0:18–0:22 | **AI-05** Mag unosi dłoń, runa w powietrzu, błyskawica. **→ GP-03** Czar w grze (efekt, np. błyskawica/fireball). | **MAG** | |
-| 0:22–0:26 | **AI-06** Łowca w mglistym lesie napina łuk. **→ GP-04** Strzał z łuku do zwierzęcia/potwora. | **ŁOWCA** | |
-| 0:26–0:30 | **AI-07** Postać w kapturze znika w cieniu uliczki z sakiewką. **→ GP-05** Hiding / kradzież / skradanie. | **ZŁODZIEJ** | *„Rozwijasz to, czego używasz.”* |
-| 0:30–0:34 | **GP-06** Szybka sekwencja 4 ujęć: rybak, drwal, kupiec na straganie, tamer z petem | **...KIMKOLWIEK CHCESZ.** | |
+## Akt III — Kim będziesz? (0:22–0:38)
 
-## Akt III — Świat żyje (0:34–0:48)
+Montaż w rytm bębnów. Każde uderzenie to jedna rasa.
 
 | Czas | Obraz | Tekst / lektor |
 |---|---|---|
-| 0:34–0:38 | **AI-08** Lot drona nad nieznanym kontynentem: góry, rzeki, miasto z wieżami. **→ GP-07** Panorama nowej mapy w grze (ujęcie z góry / szeroki kadr, bez UI) | Tekst: **NOWY ŚWIAT** · Lektor: *„Nowy ląd. Nowe potwory. Stare zasady: przetrwają najlepsi.”* |
-| 0:38–0:42 | **AI-09** Potwór wyłania się z mroku jaskini, ryk. **→ GP-08** Nowa animacja potwora w grze, zbliżenie. | Tekst: **NOWE POTWORY** |
-| 0:42–0:48 | **GP-09** Pełny bank / targ, tłum graczy · **GP-10** Domy graczy, osada · **GP-11** Gildia zebrana na zbiórce w strojach | Lektor: *„Tu nie ma scenariusza. Gospodarkę, wojny i historię piszą gracze.”* Tekst: **ŚWIAT TWORZĄ GRACZE** |
+| 0:22–0:26 | **AI-04** Pół-Anioł rozkłada świetliste skrzydła w kolumnie światła. **→ GP-03** Model Pół-Anioła w grze. | **PÓŁ-ANIOŁ** · Lektor: *„Wybierz krew...”* |
+| 0:26–0:30 | **AI-05** Pół-Demon unosi dłoń i z płomieni wyłania się płonący mustang. **→ GP-04** Pół-Demon w grze przyzywa ognistego mustanga (`.poldemon 1`). | **PÓŁ-DEMON** |
+| 0:30–0:34 | **AI-06** Nieumarły w krypcie, z ziemi wstaje szkielet-sługa. **→ GP-05** Nieumarły w grze przyzywa sługę (`.nieumarly 1`). | **NIEUMARŁY** |
+| 0:34–0:38 | **GP-06** Seria po 0,7 s: Mroczny Elf, Krasnolud w kopalni, Jaszczuroczłowiek na bagnach, Niziołek przeciskający się szczeliną, Pół-Ork w szale, Elf z łukiem | **11 RAS · KAŻDA Z WŁASNYM WYGLĄDEM I ANIMACJAMI** |
 
-## Akt IV — Legenda (0:48–1:05) — kulminacja muzyczna
+## Akt IV — Komu oddasz duszę? (0:38–0:48)
 
 | Czas | Obraz | Tekst / lektor |
 |---|---|---|
-| 0:48–0:52 | **AI-10** Dwie armie szarżują na siebie na równinie, sztandary, pył. | Lektor: *„Walcz o swoje...”* |
-| 0:52–0:56 | **→ GP-12** Masowa bitwa PvP w grze (jak najwięcej graczy, efekty czarów) | *„...albo zbuduj coś, co przetrwa.”* |
-| 0:56–1:00 | **AI-11** Ogromny smok w locie nad płonącą twierdzą, drużyna bohaterów u stóp murów. **→ GP-13** Walka grupy z bossem | Tekst: **PvP · BOSSY · RZEMIOSŁO · FABUŁA** |
-| 1:00–1:05 | **AI-12** Nasz bohater z Aktu I, teraz w pełnym rynsztunku, stoi na klifie o zachodzie słońca, za nim drużyna. Odwraca się do kamery. **→ GP-14** Ta sama drużyna w grze, gracze stoją w rzędzie, emotki/ukłon | Lektor: *„Twoja postać. Twoja historia.”* (pauza) *„Nasz świat.”* |
+| 0:38–0:43 | **AI-07** Kamera wiruje wewnątrz kręgu ośmiu kolosalnych posągów bóstw, każdy oświetlony innym światłem: złoto życia, trupia zieleń śmierci, zieleń natury, fiolet magii, biel sztuki, czerwień wojny, srebro księżyca, czerń cienia. | Lektor: *„...wybierz boga.”* Tekst: **OSIRION · MORTIS · VERDANA · ARCANUS · VALORIA · BELLUM · LUNARA · UMBRA** (szybko, po jednym słowie) |
+| 0:43–0:48 | **→ GP-07** Świątynia lub ołtarz w grze: postać składa dusze, relikt rozbłyska mocniej. | Lektor: *„Każda dusza, którą zbierzesz, rozświetli twoją drogę.”* |
 
-## Zakończenie — plansza (1:05–1:15)
+## Akt V — Nieznana Eldoria (0:48–1:02)
+
+| Czas | Obraz | Tekst / lektor |
+|---|---|---|
+| 0:48–0:52 | **AI-08** Bagna północy nocą. Mgła rozsuwa się, widmowi jeźdźcy w szyku, zbroje jak pergamin, kopyta nie dotykają ziemi i zostawiają ślady szronu. | Lektor (cicho): *„Jeśli usłyszysz kopyta tam, gdzie nie ma drogi... nie odwracaj się.”* Tekst: **UPIORNI JEŹDŹCY** |
+| 0:52–0:55 | **→ GP-08** Upiorny Jeździec w grze wyłania się z ukrycia i atakuje drużynę. | |
+| 0:55–0:58 | **GP-09** Czarny ekran z komunikatem z gry: *„Czujesz, że coś potężnego zbliża się do tej okolicy...”*, potem cięcie na **AI-09** Wilk Alfa o świecących oczach wyskakuje z lasu **→ GP-10** stworzenie [Alfa] w grze | Tekst: **STWORZENIA ALFA** |
+| 0:58–1:02 | **GP-11** Szybka sekwencja: kucie w kuźni · osadzanie runy · drużyna w czarnym lochu oświetlonym tylko reliktami · iluzoryczna ściana, przez którą przechodzi postać | Lektor: *„Mapa, jakiej Ultima jeszcze nie widziała. Nie dla wygody. Dla odkrywców.”* |
+
+## Akt VI — Legenda (1:02–1:12)
+
+| Czas | Obraz | Tekst / lektor |
+|---|---|---|
+| 1:02–1:07 | **AI-10** Wojownik z Aktu II, teraz w pełnym rynsztunku, stoi na klifie nad Eldorią o świcie. Relikt świeci mu przy pasie, obok mag i reszta drużyny. Odwraca się do kamery. | Lektor: *„Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody.”* |
+| 1:07–1:12 | **→ GP-12** Ta sama drużyna w grze: postacie stoją w rzędzie na tle krajobrazu i się kłaniają. | Lektor: *„Obiecamy ci tylko świat, który pamięta.”* |
+
+## Zakończenie (1:12–1:20)
 
 | Czas | Obraz | Tekst |
 |---|---|---|
-| 1:05–1:10 | **AI-13** Runy z AI-01 układają się w logo **GENESIS** (lub animacja logo w After Effects/DaVinci na tle AI-13) | Lektor: *„Genesis. Każda legenda zaczyna się od zera.”* |
-| 1:10–1:15 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Serwer Ultima Online · Za darmo · Po polsku<br>**uogenesis.pl**<br>Discord: `[DO UZUPEŁNIENIA: link]`<br>*„Zacznij w 5 minut, poradnik na stronie”* |
+| 1:12–1:16 | **AI-11** Czerń. Dusze zlatują się i układają w napis **GENESIS** (logo dokładane w montażu) | Lektor: *„...i który zapamięta ciebie.”* |
+| 1:16–1:20 | Plansza końcowa na tle rozmytego gameplayu | **GENESIS**<br>Darmowy serwer Ultima Online · Po polsku<br>**uogenesis.pl** · discord.gg/dhrwsxWyHf<br>*Zacznij w Przystani Orrena* |
 
 ---
 
 ## Pełny tekst lektora (do nagrania)
 
 > Bogowie patrzą... a dusze świecą w ciemności.
-> Każda legenda... zaczyna się od zera.
-> Nikt nie powie ci, kim masz być.
-> Rozwijasz to, czego używasz.
-> Nowy ląd. Nowe potwory. Stare zasady: przetrwają najlepsi.
-> Tu nie ma scenariusza. Gospodarkę, wojny i historię piszą gracze.
-> Walcz o swoje... albo zbuduj coś, co przetrwa.
-> Twoja postać. Twoja historia. ...Nasz świat.
-> Genesis. Każda legenda zaczyna się od zera.
+> Każda opowieść zaczyna się w Przystani Orrena.
+> Wybierz krew... wybierz boga.
+> Każda dusza, którą zbierzesz, rozświetli twoją drogę.
+> Jeśli usłyszysz kopyta tam, gdzie nie ma drogi... nie odwracaj się.
+> Mapa, jakiej Ultima jeszcze nie widziała. Nie dla wygody. Dla odkrywców.
+> Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody.
+> Obiecamy ci tylko świat, który pamięta... i który zapamięta ciebie.
 
-**Wersja EN (napisy / lektor EN):**
-> The gods are watching... and souls glow in the dark.
-> Every legend... starts from nothing.
-> No one tells you who to be.
-> You grow by doing.
-> A new land. New monsters. Old rules: only the strong survive.
-> There is no script here. The economy, the wars, the history are written by players.
-> Fight for what's yours... or build something that lasts.
-> Your character. Your story. ...Our world.
-> Genesis. Every legend starts from nothing.
+Czas czytania: ok. 35–40 s, reszta to muzyka i obraz. Głos niski, spokojny, jak narrator legendy.
 
 ---
 
 ## Wersja pionowa 30 s (TikTok / Reels / Shorts, 9:16)
 
-Hook musi zadziałać w pierwszej sekundzie: **zaczynamy od match cutu, nie od klimatu.**
+Hook w pierwszej sekundzie: **zaczynamy od transformacji rasy, nie od klimatu.**
 
-| Czas | Obraz | Tekst na ekranie (duży, środek kadru) |
+| Czas | Obraz | Tekst na ekranie (duży, środek) |
 |---|---|---|
-| 0:00–0:03 | AI-04 (kowal) → GP-02 (kucie w grze), przejście na beat | „Tak to czujesz 👉 tak to wygląda” |
-| 0:03–0:10 | Szybkie pary: AI-05→GP-03, AI-06→GP-04, AI-07→GP-05 | „Kowal. Mag. Łowca. Złodziej.” |
-| 0:10–0:16 | GP-09, GP-10, GP-11 (tłumy, domy, gildie) | „Świat, który tworzą gracze” |
-| 0:16–0:24 | AI-10 → GP-12 (bitwa) | „Setki graczy. Prawdziwe bitwy.” |
-| 0:24–0:30 | AI-12 → logo | „GENESIS · za darmo · po polsku · link w bio” |
+| 0:00–0:03 | AI-05 (Pół-Demon i płonący mustang) → GP-04 (to samo w grze) | „Tak to czujesz 👉 tak to wygląda” |
+| 0:03–0:10 | AI-04→GP-03, AI-06→GP-05, szybka seria GP-06 | „11 ras. Każda z własnym wyglądem.” |
+| 0:10–0:16 | AI-01/02 (relikt w ciemności) → GP-01 | „Noc jest naprawdę czarna. Światło daje tylko twój bóg.” |
+| 0:16–0:23 | AI-08 → GP-08 (Upiorni Jeźdźcy) | „A w ciemności coś jeździ...” |
+| 0:23–0:30 | GP-02 (Przystań Orrena) → logo | „Bezpieczny start. Za darmo. Po polsku. Link w bio” |
 
-Kadrowanie pionowe: przy gameplayu wycinamy środek ekranu z postacią (UO renderuje postać w centrum, więc crop 9:16 działa dobrze). Ujęcia AI generujemy od razu w 9:16 albo z zapasem kadru.
+Kadrowanie: w UO postać jest zawsze w centrum ekranu, więc crop 9:16 z gameplayu działa dobrze. Ujęcia AI generujemy od razu w 9:16 albo z zapasem kadru.
 
 ## Teaser 15 s
 
 | Czas | Obraz | Tekst / dźwięk |
 |---|---|---|
-| 0:00–0:05 | AI-01 (runy) | Szept: *„Bogowie patrzą...”* |
-| 0:05–0:10 | AI-02 (dusze) → sylwetka otwiera oczy | *„...a dusze świecą w ciemności.”* |
-| 0:10–0:15 | Czerń, logo GENESIS, data premiery trailera | „Każda legenda zaczyna się od zera. [DATA]” |
+| 0:00–0:05 | Czerń. Na środku, białą czcionką z gry: *„Czujesz, że coś potężnego zbliża się do tej okolicy...”* | Dron, daleki tętent kopyt |
+| 0:05–0:11 | AI-08 (mgła, jeźdźcy), potem AI-02 (relikt rozbłyska) | Szept: *„Bogowie patrzą...”* |
+| 0:11–0:15 | Logo GENESIS, data premiery trailera | „Świat, który zapamięta ciebie. [DATA]” |
 
-## Seria klipów „filarowych” (po 20–30 s, pion + poziom)
+## Serie krótkich klipów (pion, 15–30 s)
 
-1. **„Bądź kim chcesz”**: jedna postać, 5 zawodów, montaż z licznikiem skilla rosnącym w rogu.
-2. **„Wykuj legendę”**: od rudy w kopalni, przez hutę i kuźnię, do broni w rękach wojownika w walce.
-3. **„Nowe potwory”**: galeria nowych animacji, każda z nazwą potwora i „czy dasz radę?”.
-4. **„Pierwszy dom”**: od położenia fundamentów / deedu do wieczoru z gildią w środku.
-5. **„Nie jesteś sam”**: nagranie mentora pomagającego nowemu graczowi (za zgodą obu).
-6. **„Jak zacząć w 5 minut”**: nagranie ekranu: strona → instalacja → pierwsze kroki w grze.
+1. **„Rasy Eldorii”** (11 odcinków): ujęcie AI rasy → model w grze → 3 atuty na ekranie → „Kim będziesz?”. Dane są na wiki „Rasy”.
+2. **„Bogowie Eldorii”** (8 + Ateista): AI posągu i reliktu → relikt w grze → jedno zdanie z wiki (np. Umbra: „wszechwidzące oko ukrytej prawdy”).
+3. **„Bez światła jesteś ślepy”**: ta sama jaskinia z reliktem i bez niego.
+4. **„Orszak z Drugiej Strony”**: fragment legendy z wiki czytany przez lektora na tle AI-08 → walka z Jeźdźcem → oswojenie Widmaka.
+5. **„Pierwszy dzień w Przystani Orrena”**: nagranie ekranu z kreatora postaci i pierwszych minut. Pokazuje, że start jest prosty i bezpieczny.
+6. **„Jak zacząć w 5 minut”**: instalacja krok po kroku, **łącznie z ostrzeżeniem Windows i wyjaśnieniem, dlaczego się pojawia**.
+7. **„Kroniki Eldorii”**: wydarzenia fabularne z serwera (np. aukcja w Dalamarze i tajemniczy list Mordaina) opowiedziane jak zapowiedź serialu.

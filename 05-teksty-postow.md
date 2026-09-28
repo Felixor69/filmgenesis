@@ -210,7 +210,8 @@ jedynym światłem w nocy. Oglądamy Twoje materiały o [GRA/TEMAT] i myślimy, 
 na streamie.
 
 Zapraszamy na akcję „Nowa Krew” [DATA]: wspólny start nowych postaci na bezpiecznej wyspie
-startowej (PvP jest tam całkowicie zablokowane), z opiekunami z naszej społeczności na Discordzie,
+startowej (PvP jest tam całkowicie zablokowane). Na wyspie przywita cię ekipa serwera, a opiekunowie
+ze społeczności pomogą na Discordzie,
 żebyś nie tracił czasu streamu na naukę podstaw. Po treningu wspólne wyjście do świata Eldorii.
 Trailer: [LINK_YT]
 

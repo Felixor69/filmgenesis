@@ -110,7 +110,7 @@ Gotowe opisy profili są w [05-teksty-postow.md](05-teksty-postow.md). Nie trzeb
 | **T2: premiera trailera** | Premiera na YT (z czatem na żywo), cross-post: Reddit, Wykop, FB, Discordy. Wersja 30 s na TikTok/Reels |
 | **T3: „Kim będziesz?”** | Seria o rasach (pion). Klip „Jak zacząć w 5 minut” |
 | **T4: „Komu oddasz duszę?”** | Seria o bogach i relikcie. Klip o Upiornych Jeźdźcach. Zaproszenia do twórców |
-| **T5: akcja „Nowa Krew”** | **Wspólny start nowych postaci:** wszyscy zakładają postacie tego samego dnia o ustalonej godzinie i trenują razem na Przystani Orrena. Opiekunowie z gildii pomagają przez Discord (kanał głosowy dla nowych), bo na wyspę wchodzą tylko postacie [Młody]. Po treningu grupa wychodzi razem do Eldorii, a gildie czekają na nich przy wyjściu. Stream |
+| **T5: akcja „Nowa Krew”** | **Wspólny start nowych postaci:** wszyscy zakładają postacie tego samego dnia o ustalonej godzinie i trenują razem na Przystani Orrena. **Ekipa wita grupę na wyspie**: GM lub Quest Masterka prowadzą krótkie powitanie fabularne i pokazują pierwsze kroki. Opiekunowie z gildii pomagają przez Discord (kanał głosowy dla nowych), bo gracze spoza statusu [Młody] na wyspę nie wchodzą. Po treningu grupa wychodzi razem do Eldorii, a gildie czekają na nich przy wyjściu. Nagrywamy i streamujemy |
 | **T6: historie** | Klipy „Moja pierwsza noc w Eldorii”, „Mój pierwszy relikt”, relacja z eventu w stylu „Złoto, chciwość i tajemnice domu aukcyjnego” |
 
 ## 6. Ścieżka nowego gracza: co naprawić PRZED kampanią

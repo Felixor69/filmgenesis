@@ -11,12 +11,12 @@
 | Social media | Brak, **zakładamy od zera** (TikTok i YouTube na start, potem IG i FB) |
 | Online | Kilkanaście osób na co dzień, **ok. 50, gdy coś się dzieje** |
 | Eventy | **Ognisty Portal**: soboty 20:00 · **Deathmatch**: nd, pn, śr 21:00 · docelowo event codziennie (rodzaje i dni ustala ekipa) |
+| Nowi gracze a eventy | Postać [Młody] trenuje na Przystani Orrena (PvP całkowicie zablokowane) i **nie ma wstępu na eventy**. Eventy są celem po wyjściu z wyspy |
 
 ## Jeszcze do ustalenia
 
-1. **Nowi gracze a eventy.** Czy postać ze statusem [Młody] może wziąć udział w Ognistym Portalu albo Deathmatchu (albo chociaż bezpiecznie popatrzeć)? Od tego zależy, czy w kampanii zapraszamy nowych na te eventy.
-2. **Data startu kampanii.** Kiedy premiera teasera? Proponowany plan to 4 tygodnie produkcji, potem 6 tygodni kampanii.
-3. **Sesja nagraniowa.** Czy uda się zebrać 5–10 osób z postaciami różnych ras (szczególnie Pół-Anioł, Pół-Demon, Nieumarły)?
-4. **Kamera GM i serwer testowy.** Czy ekipa może nagrywać niewidzialną postacią i ustawiać porę dnia na serwerze testowym?
-5. **Event „Nowa Krew”.** Czy Quest Masterka (Triacz3k) poprowadzi event fabularny dla nowych graczy w tygodniu 5 kampanii?
-6. **Liczba nowych kont tygodniowo.** Warto zacząć ją notować już teraz, żeby było z czym porównać wyniki kampanii.
+1. **Data startu kampanii.** Kiedy premiera teasera? Proponowany plan to 4 tygodnie produkcji, potem 6 tygodni kampanii.
+2. **Sesja nagraniowa.** Czy uda się zebrać 5–10 osób z postaciami różnych ras (szczególnie Pół-Anioł, Pół-Demon, Nieumarły)?
+3. **Kamera GM i serwer testowy.** Czy ekipa może nagrywać niewidzialną postacią i ustawiać porę dnia na serwerze testowym?
+4. **Akcja „Nowa Krew”.** Czy ekipa (GM, Quest Masterka) może wejść na Przystań Orrena, żeby przywitać grupę nowych, czy opieka zostaje tylko na Discordzie?
+5. **Liczba nowych kont tygodniowo.** Warto zacząć ją notować już teraz, żeby było z czym porównać wyniki kampanii.

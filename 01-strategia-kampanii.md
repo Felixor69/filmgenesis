@@ -54,8 +54,9 @@ Na co dzień online jest kilkanaście osób, podczas eventów ok. 50. Jeśli tra
 - **Pokazujemy tylko to, co realnie się dzieje:** drużyny, gildię i **event z ok. 50 osobami**. Taki tłum jest prawdziwy, więc można go pokazać, ale z podpisem, że to event.
 - Kameralność to atut: **„Tu nie jesteś numerem. Tu cię zapamiętają.”** Pasuje do głównego hasła.
 - **Zmienić hasło na stronie głównej** („Dołącz do setek graczy”) na coś zgodnego z rzeczywistością.
-- **Kierujemy nowych na eventy.** Każdy materiał kończy się informacją, kiedy jest najbliższy event („Wieczór w Eldorii: w piątek o 20:00”). Nowy gracz, który pierwszy raz wejdzie w wieczór z 50 osobami, zostanie. Ten, który wejdzie w pustą środę rano, raczej nie.
-- Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc od razu mają towarzyszy i świat wydaje się pełniejszy.
+- **Eventy są celem, nie pierwszym krokiem.** Postać [Młody] trenuje na Przystani Orrena, gdzie PvP jest całkowicie zablokowane, i nie ma wstępu na eventy. Dlatego nie piszemy do nowych „wpadnij w sobotę na Portal”. Komunikat brzmi: **„Zacznij spokojnie na Przystani Orrena. Gdy będziesz gotowy, czeka na ciebie Ognisty Portal i Deathmatch.”** Eventy w materiałach pokazują, że świat żyje, i dają nowemu cel treningu.
+- **Pierwsze logowanie może być o dowolnej porze**, bo wyspa jest bezpieczna i służy do nauki. Pusty świat nie grozi nowemu na starcie. Grozi dopiero po wyjściu z wyspy, więc wtedy kierujemy go na eventy i do gildii.
+- Kampania ma **skupiać nowych w czasie**: wszyscy nowi zaczynają razem w wydarzeniu „Nowa Krew”, więc na wyspie od razu mają towarzyszy w tej samej sytuacji.
 - **Docelowo event codziennie.** To najmocniejszy argument dla nowego gracza („zawsze coś się dzieje”), ale **komunikujemy go dopiero wtedy, gdy grafik naprawdę działa** (co najmniej 2 tygodnie bez przerw). Do tego czasu podajemy tylko terminy, które na pewno się odbędą.
 
 Rodzaje eventów i ich rozkład na dni ustala ekipa. Obecnie stałe są dwa:
@@ -64,7 +65,12 @@ Rodzaje eventów i ich rozkład na dni ustala ekipa. Obecnie stałe są dwa:
 
 Te terminy wpisujemy do trailera, opisów i bio. Kolejne dopisujemy, gdy ekipa je ogłosi.
 
-**Uwaga dla nowych graczy:** oba eventy są nastawione na walkę (PvP, bitwa o portal), a nowy gracz ze statusem [Młody] siedzi na Przystani Orrena bez PvP. Trzeba jasno powiedzieć, co nowy może na evencie zrobić: obejrzeć z bezpiecznego miejsca, dołączyć do drużyny jako wsparcie albo dopiero później. Inaczej zaproszenie „wpadnij w sobotę na Portal” będzie pustą obietnicą. Docelowo przydałby się też event dla nowych (np. „Nowa Krew”, patrz harmonogram).
+**Nowi gracze a eventy (ustalone):** postać [Młody] jest na Przystani Orrena i **nie ma wstępu na eventy**. To jej czas na trening, a PvP na wyspie jest całkowicie zablokowane. W materiałach dla nowych eventy pokazujemy jako **to, co czeka po wyjściu z wyspy**, a nie jako zaproszenie na najbliższą sobotę.
+
+**Ścieżka nowego gracza w komunikacji:**
+1. **Przystań Orrena:** spokojna nauka, trening, zero PvP.
+2. **Wyjście do Eldorii:** wybór rasy i boga, pierwsze wyprawy, gildia.
+3. **Eventy:** Ognisty Portal i Deathmatch, czyli miejsce, gdzie powstają legendy.
 
 **Każdy event to materiał do kampanii:** nagrywamy go (OBS, 5 minut pracy), a następnego dnia wrzucamy klip 15–30 s („Wczoraj w Eldorii…”). Codzienne eventy dają więc codzienne treści na TikToka i Reels bez wymyślania czegokolwiek od zera.
 
@@ -104,7 +110,7 @@ Gotowe opisy profili są w [05-teksty-postow.md](05-teksty-postow.md). Nie trzeb
 | **T2: premiera trailera** | Premiera na YT (z czatem na żywo), cross-post: Reddit, Wykop, FB, Discordy. Wersja 30 s na TikTok/Reels |
 | **T3: „Kim będziesz?”** | Seria o rasach (pion). Klip „Jak zacząć w 5 minut” |
 | **T4: „Komu oddasz duszę?”** | Seria o bogach i relikcie. Klip o Upiornych Jeźdźcach. Zaproszenia do twórców |
-| **T5: event „Nowa Krew”** | **Tydzień dla nowych postaci:** wspólny start na Przystani Orrena o ustalonej godzinie, przewodnicy z gildii, wieczorny event fabularny prowadzony przez Quest Masterkę, wspólne wyjście z wyspy do Eldorii. Stream |
+| **T5: akcja „Nowa Krew”** | **Wspólny start nowych postaci:** wszyscy zakładają postacie tego samego dnia o ustalonej godzinie i trenują razem na Przystani Orrena. Opiekunowie z gildii pomagają przez Discord (kanał głosowy dla nowych), bo na wyspę wchodzą tylko postacie [Młody]. Po treningu grupa wychodzi razem do Eldorii, a gildie czekają na nich przy wyjściu. Stream |
 | **T6: historie** | Klipy „Moja pierwsza noc w Eldorii”, „Mój pierwszy relikt”, relacja z eventu w stylu „Złoto, chciwość i tajemnice domu aukcyjnego” |
 
 ## 6. Ścieżka nowego gracza: co naprawić PRZED kampanią

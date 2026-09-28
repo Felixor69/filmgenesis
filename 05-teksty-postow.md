@@ -7,7 +7,7 @@ Do uzupełnienia po publikacji: `[LINK_YT]` (trailer).
 
 **Zasada uczciwości:** nigdzie nie piszemy „setki graczy”. Piszemy o świecie, historii i bezpiecznym starcie.
 
-**Zasada eventów:** tam, gdzie się da, dopisujemy terminy eventów. Nowy gracz ma wejść wtedy, gdy w grze jest najwięcej ludzi. Obecnie:
+**Zasada eventów:** postać [Młody] trenuje na Przystani Orrena i nie ma wstępu na eventy. Do nowych nie piszemy więc „wpadaj dziś na event”, tylko pokazujemy eventy jako **cel po wyjściu z wyspy**. Terminy podajemy dla graczy, którzy już grają, i jako dowód, że świat żyje. Obecnie:
 ```
 🔥 Ognisty Portal: każda sobota, 20:00
 ⚔️ Deathmatch: niedziela, poniedziałek, środa, 21:00
@@ -17,7 +17,7 @@ Gdy codzienne eventy ruszą na stałe, dopisujemy **„Event codziennie”**.
 **Seria „Ognisty Portal”** (po każdej sobocie):
 ```
 Ognisty Portal znów się otworzył 🔥 Kto utrzymał wejście? Kto przepadł w płomieniach?
-Kolejny portal w sobotę o 20:00. Link w bio
+Kolejny portal w sobotę o 20:00. Nowy? Najpierw trening na Przystani Orrena, potem Portal. Link w bio
 #mmorpg #ultimaonline #pvp #gry
 ```
 
@@ -30,7 +30,7 @@ Następny DM: [dzień] 21:00. Link w bio
 
 **Seria „Wczoraj w Eldorii”** (codziennie, pion 15–30 s, z nagrania wczorajszego eventu):
 ```
-Wczoraj w Eldorii: [NAZWA EVENTU] ⚔️ Dziś o [GODZINA] kolejny, wpadaj. Link w bio
+Wczoraj w Eldorii: [NAZWA EVENTU] ⚔️ Nowy? Zacznij spokojnie na Przystani Orrena, a za kilka dni staniesz tu z nami. Link w bio
 #mmorpg #ultimaonline #gry
 ```
 
@@ -209,8 +209,9 @@ Eldorii, 11 rasami z własnymi modelami i systemem wiary, w którym dusze pokona
 jedynym światłem w nocy. Oglądamy Twoje materiały o [GRA/TEMAT] i myślimy, że to by się sprawdziło
 na streamie.
 
-Zapraszamy na event „Nowa Krew” [DATA]: wspólny start nowych postaci z przewodnikami z naszej
-społeczności, żebyś nie tracił czasu streamu na naukę podstaw. Pierwsze 168 h masz ochronę przed PvP.
+Zapraszamy na akcję „Nowa Krew” [DATA]: wspólny start nowych postaci na bezpiecznej wyspie
+startowej (PvP jest tam całkowicie zablokowane), z opiekunami z naszej społeczności na Discordzie,
+żebyś nie tracił czasu streamu na naukę podstaw. Po treningu wspólne wyjście do świata Eldorii.
 Trailer: [LINK_YT]
 
 Bez zobowiązań. Pozdrawiamy, ekipa Genesis

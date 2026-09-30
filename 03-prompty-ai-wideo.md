@@ -165,8 +165,8 @@ Napis **GENESIS** dokładamy w montażu. **Nie generujemy tekstu przez AI**, bo 
 
 ### AI-12 · Ognisty Portal (klipy o evencie, teaser sobotnich eventów)
 ```
-A swirling portal of living fire stands in the middle of a dark rocky wasteland near a serpent-men
-lair, sulfur smoke rising, embers raining. Two rival bands of adventurers clash in front of it, shields
+A tall upright oval gate of bright yellow-orange living fire with a darker red swirling core stands in
+the middle of a rust-red rocky wasteland of a serpent-men lair, sulfur smoke rising, embers raining. Two rival bands of adventurers clash in front of it, shields
 raised, arrows and spells flying, silhouetted against the blazing portal. Wide shot, slow push-in toward
 the portal. [STYLE, fire orange and deep black palette]
 Audio: roaring portal flames, clashing steel, distant battle cries, no music.

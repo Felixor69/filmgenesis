@@ -120,6 +120,6 @@ Kadrowanie: w UO postać jest zawsze w centrum ekranu, więc crop 9:16 z gamepla
 4. **„Orszak z Drugiej Strony”**: fragment legendy z wiki czytany przez lektora na tle AI-08 → walka z Jeźdźcem → oswojenie Widmaka.
 5. **„Pierwszy dzień w Przystani Orrena”**: nagranie ekranu z kreatora postaci i pierwszych minut. Pokazuje, że start jest prosty i bezpieczny.
 6. **„Jak zacząć w 5 minut”**: instalacja krok po kroku, **łącznie z ostrzeżeniem Windows i wyjaśnieniem, dlaczego się pojawia**.
-7. **„Ognisty Portal”** (co tydzień, po sobocie): AI-12 (portal, patrz prompty) → najlepsze momenty z nagrania sobotniego eventu → „Kto zdobędzie portal w tę sobotę? 20:00”. Lektor może czytać fragment relacji z forum.
+7. **„Ognisty Portal”** (co tydzień, po sobocie): hook w pierwszej sekundzie to prawdziwy komunikat z gry na czarnym tle: *„Niebo poczerwieniało, a z głębi ziemi dobiega ryk czegoś pradawnego... Ognisty Portal został otwarty!”* → AI-12 (portal, patrz prompty) → najlepsze momenty z nagrania sobotniego eventu → „Kto zdobędzie portal w tę sobotę? 20:00”. Lektor może czytać fragment relacji z forum.
 8. **„Deathmatch”** (po każdym DM): najlepsze zabójstwo lub końcówka walki + aktualne podium rankingu → „Następny DM: [dzień] 21:00”.
 9. **„Kroniki Eldorii”**: wydarzenia fabularne z serwera (np. aukcja w Dalamarze i tajemniczy list Mordaina) opowiedziane jak zapowiedź serialu.

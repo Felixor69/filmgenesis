@@ -185,11 +185,14 @@ clean space for a title that will be added later. No text.
 ```
 
 ### AI-12 · Ognisty Portal (klipy o evencie) 📎
-Dołącz screenshot portalu z gry.
+Dołącz z folderu [referencje/ognisty-portal/](referencje/ognisty-portal/) (podglądy z relacji na forum): `portal-zblizenie.png` i `portal-miejsce-bitwy.png`. Są małe, ale wystarczą jako referencja kształtu i kolorów.
+
+W grze portal to **wysoka, pionowa owalna brama z jasnożółto-pomarańczowego ognia z ciemnoczerwonym środkiem**, stojąca na rdzawoczerwonym, skalistym podłożu siedliska ophidianów, obok czarnej krawędzi urwiska.
 ```
-Keyframe AI-12. A dark rocky wasteland near a serpent-men lair at night. A swirling portal of living
-fire (shape and colors based on the attached in-game screenshot) stands in the center, sulfur smoke
-rising, embers raining. In the foreground, two rival bands of adventurers face each other with shields
+Keyframe AI-12. A rust-red rocky wasteland of a serpent-men lair at night, jagged black cliff edges on
+one side, ancient dark stone structures. In the center stands a tall upright oval gate of bright
+yellow-orange living fire with a darker red swirling core (shape and colors based on the attached game
+screenshots), sulfur smoke rising, embers raining. In the foreground, two rival bands of adventurers face each other with shields
 raised and weapons drawn, silhouetted against the blazing portal. The moment before the clash. Fire
 orange and deep black palette.
 ```

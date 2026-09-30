@@ -147,13 +147,17 @@ compared to the gods.
 ```
 
 ### AI-08 · Upiorni Jeźdźcy (0:48) 📎
-Dołącz screenshot Upiornego Jeźdźca z gry.
+Dołącz z folderu [referencje/upiorni-jezdzcy/](referencje/upiorni-jezdzcy/) (screenshoty z wiki): `odbicie-mroku-kon.png`, `widmowy-egzekutor-wilk.png`, `cien-smierci-niedzwiedz.png`, `duchowy-zniwiarz-kosa.png`.
+
+W grze Jeźdźcy to **postacie w czarnych płaszczach i ciemnych zbrojach na bladych, kościano-białych widmowych wierzchowcach**: koń, olbrzymi wilk, niedźwiedź, kościany smok. Jeden ma kosę, inny halabardę.
 ```
 Keyframe AI-08. A frozen northern swamp at night, an old road swallowed by bog, dead trees. A wall of
-thick white-teal mist fills the middle of the frame. Inside the mist, only just visible, the pale cold
-glow of visor slits of a column of spectral riders in formation, and the dark outlines of old shields
-without heraldry (colors based on the attached in-game Spectral Rider). Frost on the ground in the
-foreground, a torch on a post going out. Eerie, silent, cold teal and frost-blue palette.
+thick white-teal mist fills the middle of the frame. Emerging from the mist, only half visible, a column
+of spectral riders based on the attached game screenshots: figures in black hooded cloaks and dark armor,
+riding pale bone-white ghostly mounts - a horse, a giant wolf, a great bear. One rider holds a scythe,
+another a halberd, one a dark shield. The mounts are translucent at the edges, their hooves and paws
+not touching the ground. Frost on the ground in the foreground, a torch on a post going out.
+Eerie, silent, cold teal and frost-blue palette.
 ```
 
 ### AI-09 · Wilk Alfa (0:55)

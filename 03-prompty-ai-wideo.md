@@ -125,9 +125,9 @@ Ten sam prompt nadaje się do klipów „Bogowie Eldorii” (osobne ujęcie na k
 ### AI-08 · Upiorni Jeźdźcy (0:48–0:52) · statyczna, mgła się rozsuwa
 ```
 A frozen northern swamp at night, the old road swallowed by bog. Thick mist parts like a torn bandage and
-reveals a column of spectral cavalry riding in formation: dark shields without heraldry, sunken helmets
-with a cold pale glow in the visor slits, armor rustling like old parchment. The ghostly horses' hooves
-never touch the ground, leaving trails of frost that form letters of an unknown alphabet.
+reveals a column of spectral riders in formation: figures in black hooded cloaks and dark armor riding
+pale bone-white ghostly mounts (a horse, a giant wolf, a great bear), one with a scythe, one with a
+halberd, armor rustling like old parchment. The ghostly mounts never touch the ground, leaving trails of frost that form letters of an unknown alphabet.
 Breath turns to vapor, torches die out. Static camera, riders approach toward it. Eerie, silent. [STYLE,
 cold teal and frost-blue palette]
 Audio: muffled ghostly hoofbeats, creaking frost, cold wind, faint whispers, no music.

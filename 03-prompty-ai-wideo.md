@@ -91,8 +91,8 @@ Gentle lateral dolly. [STYLE, but golden dawn light instead of night]
 
 ### AI-04 · Pół-Anioł (0:22–0:24) · od dołu, kamera unosi się
 ```
-A half-angel warrior stands in a shaft of divine light inside a ruined cathedral, then slowly unfurls
-large luminous feathered wings, dust and light motes swirling around, calm solemn face, eyes glowing faintly.
+A half-angel warrior with long silver hair and golden skin stands in a shaft of divine light inside a
+ruined cathedral, then slowly unfurls large dark silver-grey feathered wings that catch the light, dust and light motes swirling around, calm solemn face, eyes glowing faintly.
 Low angle, camera rising. [STYLE]
 ```
 **Referencja:** kolor skrzydeł i zbroi z modelu Pół-Anioła w grze.

@@ -61,7 +61,12 @@ between the fingers. Front, side profile and three-quarter view, full body. Same
 ```
 
 ### Rasy (Pół-Anioł, Pół-Demon, Nieumarły) 📎
-Dołącz screenshot modelu rasy z gry (zbliżenie z zoomem).
+Dołącz obrazek modelu rasy z folderu [referencje/rasy/](referencje/rasy/) (pobrane z wiki Genesis) albo własny screenshot z gry.
+
+Wygląd modeli z wiki (warto trzymać się go w AI):
+- **Pół-Anioł:** długie srebrne włosy, złocista skóra, **ciemne, srebrno-szare pierzaste skrzydła**
+- **Pół-Demon:** oliwkowo-szara skóra pokryta **świecącymi czerwonymi wzorami**, małe zakręcone rogi, długie srebrnobiałe włosy
+- **Nieumarły:** blada, szara, wychudzona skóra, widoczne żebra, długie białe włosy
 ```
 Character reference sheet based on the attached in-game character: create a realistic cinematic
 version of this [HALF-ANGEL / HALF-DEMON / UNDEAD] keeping the same colors, clothing and silhouette
@@ -104,17 +109,18 @@ a new beginning. Warm dawn light instead of night.
 Dołącz screenshot modelu Pół-Anioła z gry.
 ```
 Keyframe AI-04. Low-angle shot inside a ruined cathedral with a collapsed roof. A half-angel warrior
-(based on the attached in-game model and the half-angel character sheet) stands in a single shaft of
-divine light, head slightly bowed, eyes closed; luminous feathered wings are still folded tightly
-against the back, only their glowing edges visible. Dust and light motes hang in the light beam.
+based on the attached in-game model (long silver hair, golden skin, dark silver-grey feathered wings),
+wearing light ornate armor, stands in a single shaft of divine light, head slightly bowed, eyes closed;
+the wings are still folded tightly against the back, their edges catching the light. Dust and light motes hang in the light beam.
 Solemn, quiet, the moment before the wings open.
 ```
 
 ### AI-05 · Pół-Demon (0:26) 📎
 Dołącz screenshot modelu Pół-Demona z gry (najlepiej z przyzwanym ognistym mustangiem).
 ```
-Keyframe AI-05. Night on a ruined battlefield. A half-demon (based on the attached in-game model and
-the half-demon character sheet) with small curved horns and ember-cracked skin stands on the right,
+Keyframe AI-05. Night on a ruined battlefield. A half-demon based on the attached in-game model
+(olive-grey skin covered in glowing red markings, small curled horns, long silver-white hair),
+wearing dark leather armor, stands on the right,
 raising a clawed hand toward the ground on the left; the earth there is splitting open with glowing
 orange cracks and the first flames bursting out. The fire mustang has not appeared yet. Smoke,
 sparks, tension.
@@ -123,8 +129,9 @@ sparks, tension.
 ### AI-06 · Nieumarły (0:30) 📎
 Dołącz screenshot modelu Nieumarłego z gry.
 ```
-Keyframe AI-06. Inside a dark stone crypt lit by cold green-blue light. A gaunt undead sorcerer in
-tattered robes (based on the attached in-game model and the undead character sheet) stands on the
+Keyframe AI-06. Inside a dark stone crypt lit by cold green-blue light. A gaunt undead sorcerer based
+on the attached in-game model (pale grey emaciated skin, visible ribs, long white hair), in tattered
+dark robes, stands on the
 left, pointing a bony finger at the cracked stone floor in the foreground, where the first skeletal
 fingers are just breaking through the stone. Dust falling, low camera angle close to the floor.
 ```

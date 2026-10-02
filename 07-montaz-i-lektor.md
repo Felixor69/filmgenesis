@@ -54,9 +54,9 @@ Znak `Grafika z gry` (mały, w rogu, `Inter`, 60% krycia) pojawia się przy pier
 
 ## 5. Lektor AI
 
-**Narzędzie: Gemini TTS w Google AI Studio** (aistudio.google.com, tryb generowania mowy). Macie konto Google, dobrze radzi sobie z polskim, a przede wszystkim **sterujesz tonem zwykłym zdaniem**: szept, powoli, z napięciem. Zapasowo: ElevenLabs (darmowy plan wymaga podpisu w opisie filmu i może ograniczać użycie komercyjne).
+**Narzędzie: Gemini TTS w Google AI Studio.** Bezpośredni link: https://aistudio.google.com/generate-speech (od 23.09.2026 model Gemini 3.8 Flash TTS i biblioteka ponad 2000 głosów do odsłuchania i filtrowania po języku). Macie konto Google, dobrze radzi sobie z polskim, a przede wszystkim **sterujesz tonem zwykłym zdaniem**: szept, powoli, z napięciem. Zapasowo: ElevenLabs (darmowy plan wymaga podpisu w opisie filmu i może ograniczać użycie komercyjne).
 
-**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. Przesłuchaj kilka głosów na pierwszym zdaniu (w AI Studio np. Charon, Orus, Algenib, Enceladus) i wybierz jeden na cały trailer.
+**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. W bibliotece głosów odfiltruj język polski i głosy typu narrator, przesłuchaj kilka na pierwszym zdaniu i wybierz jeden na cały trailer.
 
 **Jak pisać polecenie w AI Studio:** najpierw instrukcja tonu po polsku, potem tekst. Przykład:
 ```

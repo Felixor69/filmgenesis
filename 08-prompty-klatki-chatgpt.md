@@ -151,13 +151,29 @@ Dołącz z folderu [referencje/upiorni-jezdzcy/](referencje/upiorni-jezdzcy/) (s
 
 W grze Jeźdźcy to **postacie w czarnych płaszczach i ciemnych zbrojach na bladych, kościano-białych widmowych wierzchowcach**: koń, olbrzymi wilk, niedźwiedź, kościany smok. Jeden ma kosę, inny halabardę.
 ```
-Keyframe AI-08. A frozen northern swamp at night, an old road swallowed by bog, dead trees. A wall of
-thick white-teal mist fills the middle of the frame. Emerging from the mist, only half visible, a column
-of spectral riders based on the attached game screenshots: figures in black hooded cloaks and dark armor,
-riding pale bone-white ghostly mounts - a horse, a giant wolf, a great bear. One rider holds a scythe,
-another a halberd, one a dark shield. The mounts are translucent at the edges, their hooves and paws
-not touching the ground. Frost on the ground in the foreground, a torch on a post going out.
+Keyframe AI-08. A frozen northern swamp at night, an old road swallowed by bog, dead trees. Thin
+white-teal mist lies low over the ground and in the far background. In the center foreground, clearly
+separated from everything else, ONE spectral rider based on the attached game screenshot: a figure in a
+black hooded cloak and dark armor with a dark shield, riding a pale bone-white ghostly horse, sharp clean
+silhouette with a cold rim light. Far behind, with wide empty gaps between them, two small dark
+silhouettes of other riders in the mist. Frost on the ground, a torch on a post going out.
 Eerie, silent, cold teal and frost-blue palette.
+```
+
+**Uwaga (morphing):** pierwsza wersja z wilkiem i niedźwiedziem blisko siebie w gęstej mgle powodowała w Veo mieszanie się zwierząt między klatkami. Dlatego w trailerze jest **jeden jeździec na pierwszym planie**, a reszta to małe, oddzielone sylwetki. Wilka, niedźwiedzia i kosę pokazujemy w osobnych krótkich ujęciach (AI-08b, AI-08c niżej), zmontowanych szybkimi cięciami.
+
+### AI-08b · Jeździec na wilku (opcjonalnie, do szybkiego cięcia) 📎 `widmowy-egzekutor-wilk.png`
+```
+Keyframe AI-08b. Frozen swamp at night, low mist. A single spectral rider in a black hooded cloak with a
+halberd, riding a giant pale bone-white ghostly wolf, side view, clean sharp silhouette against the
+dark background, frost on the ground. Only this one rider in the frame.
+```
+
+### AI-08c · Żniwiarz z kosą (opcjonalnie, zbliżenie) 📎 `duchowy-zniwiarz-kosa.png`
+```
+Keyframe AI-08c. Close-up of a spectral rider in a black hood, the face hidden in darkness except for a
+faint cold glow where the eyes should be, holding a long scythe, frost forming on the blade. Mist
+behind, dark background. Only this one rider in the frame.
 ```
 
 ### AI-09 · Wilk Alfa (0:55)

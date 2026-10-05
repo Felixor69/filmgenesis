@@ -173,11 +173,11 @@ def main():
                                   f"0.6*({fade_alpha(st, st + seg[3])})", False))
     vlast = prev
     if texts:
-        chain.append(f"{prev}{','.join(texts)},noise=alls=3:allf=t[vout]")
+        chain.append(f"{prev}{','.join(texts)},noise=alls=3:allf=t,format=yuv420p[vout]")
         vlast = "[vout]"
     video = os.path.join(OUT, "video.mp4")
     run(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", ";".join(chain),
-         "-map", vlast, "-c:v", "libx264", "-crf", "16", "-preset", "medium", video])
+         "-map", vlast, "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "16", "-preset", "medium", video])
 
     # dźwięk: lektor (z pogłosem) + muzyka ściszana pod lektorem
     vo = [(os.path.join(MAT, f), st + off) for seg, st in zip(SEGMENTS, starts) for f, off in seg[6]]

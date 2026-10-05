@@ -90,6 +90,45 @@ Czas czytania: ok. 35–40 s, reszta to muzyka i obraz. Lektor AI: wersja tekstu
 
 ---
 
+## Wersja kinowa ok. 2:50 (pełne ujęcia Veo)
+
+Ujęcia z Veo (po 10 s) najlepiej wyglądają w całości, więc główny trailer na YouTube to wersja kinowa: każde ujęcie AI leci w całości (8–10 s), a po nim krótka przebitka z gry (3–5 s), żeby widz cały czas widział, jak wygląda prawdziwa gra. Kolejność i tekst lektora bez zmian, jest tylko więcej oddechu.
+
+**Przejścia:** po pełnym ujęciu Veo kompozycja ostatniej klatki zwykle różni się od klatki startowej, więc zamiast twardego cięcia stosujemy **przenikanie 0,5–1 s** do gameplayu. Twarde cięcie zostawiamy tam, gdzie kadr na końcu ujęcia AI i tak pasuje do gry.
+
+| Czas | Obraz | Lektor (start) | Napis |
+|---|---|---|---|
+| 0:00–0:10 | AI-01 | L01 (0:02) | — |
+| 0:10–0:20 | AI-02 | L02 (0:11) | — |
+| 0:20–0:24 | GP-01 relikt w nocy | — | W ELDORII NOC JEST PRAWDZIWA |
+| 0:24–0:34 | AI-03 | L03 (0:27) | — |
+| 0:34–0:39 | GP-02 Przystań | — | BEZPIECZNY START · BEZ PvP · 168 H OCHRONY |
+| 0:39–0:49 | AI-04 | L04 (0:41) | PÓŁ-ANIOŁ |
+| 0:49–0:52 | GP-03 | — | — |
+| 0:52–1:02 | AI-05 | — | PÓŁ-DEMON |
+| 1:02–1:05 | GP-04 | — | — |
+| 1:05–1:15 | AI-06 | — | NIEUMARŁY |
+| 1:15–1:18 | GP-05 | — | — |
+| 1:18–1:22 | GP-06 seria ras | — | 11 RAS · KAŻDA Z WŁASNYM WYGLĄDEM |
+| 1:22–1:32 | AI-07 | L05 (1:24) | imiona bóstw po kolei |
+| 1:32–1:37 | GP-07 ołtarz | L06 (1:33) | — |
+| 1:37–1:47 | AI-08 | L07 (1:39) | UPIORNI JEŹDŹCY |
+| 1:47–1:51 | GP-08 | — | — |
+| 1:51–1:53 | czarne tło | — | „Czujesz, że coś potężnego…” |
+| 1:53–2:01 | AI-09 | — | — |
+| 2:01–2:04 | GP-10 Alfa | — | STWORZENIA ALFA |
+| 2:04–2:09 | GP-11 kuźnia, runy, loch | L08 (2:04) | — |
+| 2:09–2:19 | AI-10 | L09 (2:10), L10 (2:15) | — |
+| 2:19–2:23 | GP-12 drużyna | — | — |
+| 2:23–2:33 | AI-12 | — | — |
+| 2:33–2:37 | GP-17 Portal | — | Ognisty Portal · soboty 20:00 |
+| 2:37–2:47 | AI-11 + logo | L11 (2:38), L12 (2:44) | GENESIS |
+| 2:47–2:53 | plansza końcowa | — | uogenesis.pl · Discord · terminy eventów |
+
+**Muzyka:** utwór z Suno musi mieć ok. 3 minut (w Suno: Extend wybranego utworu). Części: spokojne intro 0:00–0:39 · bębny od ras 0:39 · chór przy bóstwach 1:22 · groza przy Jeźdźcach 1:37 · kulminacja 2:04–2:37 · cisza i ostatnie uderzenie na logo 2:37.
+
+**Wersja skrócona 80 s** (tabele wyżej) i **pionowa 30 s** powstają później z tego samego materiału, do reklam i social mediów.
+
 ## Wersja pionowa 30 s (TikTok / Reels / Shorts, 9:16)
 
 Hook w pierwszej sekundzie: **zaczynamy od transformacji rasy, nie od klimatu.**

@@ -54,39 +54,35 @@ Znak `Grafika z gry` (mały, w rogu, `Inter`, 60% krycia) pojawia się przy pier
 
 ## 5. Lektor AI
 
-**Narzędzie: Gemini TTS w Google AI Studio.** Bezpośredni link: https://aistudio.google.com/generate-speech (od 23.09.2026 model Gemini 3.8 Flash TTS i biblioteka ponad 2000 głosów do odsłuchania i filtrowania po języku). Macie konto Google, dobrze radzi sobie z polskim, a przede wszystkim **sterujesz tonem zwykłym zdaniem**: szept, powoli, z napięciem. Zapasowo: ElevenLabs (darmowy plan wymaga podpisu w opisie filmu i może ograniczać użycie komercyjne).
+**Narzędzie: Gemini TTS w Google AI Studio.** Bezpośredni link: https://aistudio.google.com/generate-speech (od 23.09.2026 model Gemini 3.8 Flash TTS i biblioteka ponad 2000 głosów do odsłuchania i filtrowania po języku). Polski jest obsługiwany przez model, nawet jeśli nie ma go w filtrze języka głosów (filtr pokazuje język „rodzimy” głosu). Zapasowo: ElevenLabs (darmowy plan wymaga podpisu w opisie filmu i może ograniczać użycie komercyjne).
 
-**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. W bibliotece głosów odfiltruj język polski i głosy typu narrator, przesłuchaj kilka na pierwszym zdaniu i wybierz jeden na cały trailer.
+**Głos:** niski, dojrzały, spokojny: narrator legendy, nie spiker reklamy. W bibliotece ustaw Pitch: Low, przesłuchaj kilka głosów na pierwszym zdaniu i wybierz jeden na cały trailer.
 
-**Jak pisać polecenie w AI Studio:** najpierw instrukcja tonu po polsku, potem tekst. Przykład:
-```
-Przeczytaj jako narrator mrocznej legendy fantasy: bardzo powoli, niskim, cichym szeptem,
-z długą pauzą na końcu:
-Bogowie patrzą...
-```
-Instrukcje tonu dla każdej linijki są w kolumnie „Uwagi” w tabeli niżej. Wklejaj je w tym samym stylu.
+**Najważniejsza zasada:** model czyta pole tekstu **dosłownie, słowo w słowo**. Instrukcja tonu wpisana w tekst zostanie przeczytana na głos. Dlatego:
+- w **polu tekstu** wpisujesz tylko polskie zdanie (kolumna „Tekst”);
+- ton wpisujesz w **osobne pole stylu** przy danej kwestii (w edytorze to ustawienie stylu lub dostawy przy linijce mówcy), **po angielsku** (kolumna „Styl”);
+- krótkie pauzy i oddechy wstawiasz w tekst jako znaczniki w nawiasach ostrych, np. `<pause>`, `<breath>`.
 
 **Zasady:**
-- Każdą linijkę generuj **osobno** i w kilku wersjach, potem wybierz najlepszą. Pauzy robisz w montażu, nie w TTS.
-- Wielokropek „...” zwykle daje w TTS naturalne zawieszenie głosu. Jeśli nie, rozbij zdanie na dwa pliki.
+- Każdą linijkę generuj **osobno** i w kilku wersjach, potem wybierz najlepszą. Dłuższe pauzy robisz w montażu.
 - Po wygenerowaniu **przesłuchaj nazwy własne**. Jeśli akcent jest zły, zapisz słowo fonetycznie (np. „Or-rena”) albo wstaw przecinek.
 
 ### Tekst do wygenerowania (linijka = osobny plik)
 
-| Plik | Tekst | Gdzie w filmie | Uwagi |
+| Plik | Tekst (pole tekstu) | Styl (osobne pole, po angielsku) | Gdzie w filmie |
 |---|---|---|---|
-| L01 | Bogowie patrzą... | 0:00 | Szept, bardzo cicho |
-| L02 | ...a dusze świecą w ciemności. | 0:04 | Szept przechodzący w głos |
-| L03 | Każda opowieść zaczyna się w Przystani Orrena. | 0:12 | Ciepło, spokojnie |
-| L04 | Wybierz krew... | 0:22 | Pewnie, na bębnach |
-| L05 | ...wybierz boga. | 0:38 | |
-| L06 | Każda dusza, którą zbierzesz, rozświetli twoją drogę. | 0:43 | |
-| L07 | Jeśli usłyszysz kopyta tam, gdzie nie ma drogi... nie odwracaj się. | 0:48 | Cicho, z napięciem. Po generowaniu dodaj więcej pogłosu |
-| L08 | Mapa, jakiej Ultima jeszcze nie widziała. Nie dla wygody. Dla odkrywców. | 0:58 | Dynamicznie |
-| L09 | Nie obiecamy ci zwycięstwa. Nie obiecamy ci nagrody. | 1:02 | Wolno, z ciężarem |
-| L10 | Obiecamy ci tylko świat, który pamięta... | 1:07 | |
-| L11 | ...i który zapamięta ciebie. | 1:12 | Najcichsza, ostatnia linijka, na czarnym tle |
-| L12 | Genesis. | 1:16 | Opcjonalnie, na logo |
+| L01 | `Bogowie patrzą... <pause>` | `deep low whisper, very slow, mysterious, like the narrator of a dark legend` | 0:00 |
+| L02 | `...a dusze świecą w ciemności.` | `starts as a low whisper and rises into a calm deep voice, slow` | 0:04 |
+| L03 | `Każda opowieść zaczyna się w Przystani Orrena.` | `warm, calm, deep storyteller voice, gentle pace` | 0:12 |
+| L04 | `Wybierz krew... <pause>` | `firm, confident, deep and powerful, slow and deliberate` | 0:22 |
+| L05 | `...wybierz boga.` | `firm, confident, deep, with solemn emphasis` | 0:38 |
+| L06 | `Każda dusza, którą zbierzesz, rozświetli twoją drogę.` | `calm, serious, deep narrator voice, measured pace` | 0:43 |
+| L07 | `Jeśli usłyszysz kopyta tam, gdzie nie ma drogi... <pause> nie odwracaj się.` | `quiet, tense, ominous, slow, almost a whisper, like telling a ghost story` | 0:48 |
+| L08 | `Mapa, jakiej Ultima jeszcze nie widziała. Nie dla wygody. Dla odkrywców.` | `energetic, proud, epic trailer narrator, building intensity` | 0:58 |
+| L09 | `Nie obiecamy ci zwycięstwa. <pause> Nie obiecamy ci nagrody.` | `very slow, heavy, grave, deep voice` | 1:02 |
+| L10 | `Obiecamy ci tylko świat, który pamięta...` | `warm, hopeful, deep, slow` | 1:07 |
+| L11 | `...i który zapamięta ciebie.` | `the quietest line, soft deep near-whisper, final and intimate` | 1:12 |
+| L12 | `Genesis.` | `calm, dignified, deep, a single solemn word` | 1:16 |
 
 ### Teaser (osobno)
 | Plik | Tekst |

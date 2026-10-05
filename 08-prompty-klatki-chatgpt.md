@@ -105,6 +105,29 @@ the pier in the foreground; in it sit the young warrior and the young mage from 
 a new beginning. Warm dawn light instead of night.
 ```
 
+**Wariant bez morphingu (zalecany): dwa osobne ujęcia, po jednej postaci.**
+
+AI-03a · Wojownik wchodzi na pomost
+```
+Keyframe AI-03a. Golden dawn at a small island harbor town: wooden pier, stone walls, warm lanterns,
+seagulls, calm grey sea. A small rowing boat is moored at the end of the pier. The young warrior from the
+character sheet, ALONE in the frame, has one foot in the boat and is stepping up onto the wooden pier,
+holding the spotless round shield. Medium-wide shot from the side, the warrior on the left third of the
+frame, the path into the island visible on the right. Warm dawn light instead of night.
+```
+Veo: `Locked-off tripod shot, the camera does not move. Single continuous shot, no cuts. The warrior steps up onto the pier, straightens up and looks toward the island path. Seagulls fly, water ripples, lanterns flicker. Only one person in the frame. Audio: waves, seagulls, creaking wood, footsteps on wooden planks, no music.`
+
+AI-03b · Mag patrzy na wyspę
+```
+Keyframe AI-03b. Golden dawn on a wooden pier of a small island harbor town. The young mage from the
+character sheet, ALONE in the frame, wearing a deep green coat with many pockets, stands at the edge of
+the pier seen from behind over the shoulder, turning a small flickering crystal between the fingers and
+looking at the misty green hills and the forest path inland. Warm dawn light instead of night.
+```
+Veo: `Locked-off tripod shot, the camera does not move. Single continuous shot, no cuts. The mage stands still, the crystal flickers softly in the fingers, the coat moves in the breeze, mist drifts slowly over the hills. Only one person in the frame. Audio: soft wind, distant seagulls, a faint crystal shimmer, no music.`
+
+W montażu: AI-03a (ok. 5 s) → przenikanie 0,5 s → AI-03b (ok. 5 s) → GP-02. Lektor L03 zaczyna się na AI-03a.
+
 ### AI-04 · Pół-Anioł (0:22) 📎
 Dołącz screenshot modelu Pół-Anioła z gry.
 ```

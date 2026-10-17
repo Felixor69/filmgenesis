@@ -1,0 +1,47 @@
+name: iDream Rumia – iPhone 18 Pro Max 512 GB
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Wyślij testowego maila"
+        type: boolean
+        default: false
+
+concurrency:
+  group: idream-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Wczytaj stan z poprzedniego sprawdzenia
+        uses: actions/cache/restore@v4
+        with:
+          path: idream-monitor/state.json
+          key: idream-state-${{ github.run_id }}
+          restore-keys: idream-state-
+
+      - name: Sprawdź iDream Rumia
+        run: python3 idream-monitor/check.py
+        env:
+          STATE_FILE: idream-monitor/state.json
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          TEST_EMAIL: ${{ inputs.test_email }}
+
+      - name: Zapisz stan
+        uses: actions/cache/save@v4
+        with:
+          path: idream-monitor/state.json
+          key: idream-state-${{ github.run_id }}
